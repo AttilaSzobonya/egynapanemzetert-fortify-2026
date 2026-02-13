@@ -1,0 +1,114 @@
+############# Hungarian navigation ##############
+
+# main menu
+[[main]]
+name = "Minden oldal"
+weight = 1
+
+[[main]]
+parent = "Minden oldal"
+name = "Kezdőlap"
+pageRef = "/"
+weight = 1
+
+[[main]]
+parent = "Minden oldal"
+name = "Rólunk"
+pageRef = "/about"
+weight = 2
+
+[[main]]
+parent = "Minden oldal"
+name = "Integráció"
+pageRef = "/integration"
+weight = 3
+
+[[main]]
+parent = "Minden oldal"
+name = "Changelog"
+pageRef = "/changelog"
+weight = 4
+
+[[main]]
+parent = "Minden oldal"
+name = "Blog"
+pageRef = "/blog"
+weight = 5
+
+[[main]]
+parent = "Minden oldal"
+name = "Blog Poszt"
+pageRef = "/blog/post-1"
+weight = 6
+
+[[main]]
+parent = "Minden oldal"
+name = "Vélemények"
+pageRef = "/review"
+weight = 7
+
+[[main]]
+parent = "Minden oldal"
+name = "Adatvédelmi nyilatkozat"
+pageRef = "/pages/privacy-policy"
+weight = 8
+
+[[main]]
+parent = "Minden oldal"
+name = "Használati feltételek"
+pageRef = "/pages/terms-conditions"
+weight = 9
+
+[[main]]
+parent = "Minden oldal"
+name = "404 Oldal"
+pageRef = "/404"
+weight = 10
+
+[[main]]
+name = "Jellemzők"
+pageRef = "/feature"
+weight = 2
+
+[[main]]
+name = "Árak"
+pageRef = "/pricing"
+weight = 3
+
+[[main]]
+name = "Kapcsolat"
+pageRef = "/contact"
+weight = 4
+
+
+
+# footer menu
+[[footer_01]]
+name = "Jellemzők"
+url = "/feature"
+weight = 1
+
+[[footer_01]]
+name = "Árak"
+url = "/pricing"
+weight = 2
+
+[[footer_01]]
+name = "Blog"
+url = "/blog"
+weight = 3
+
+[[footer_02]]
+name = "Feltételek"
+url = "/terms-conditions"
+weight = 1
+
+[[footer_02]]
+name = "Adatvédelmi nyilatkozat"
+url = "/privacy-policy"
+weight = 2
+
+[[footer_02]]
+name = "Támogatás"
+url = "/support"
+weight = 3

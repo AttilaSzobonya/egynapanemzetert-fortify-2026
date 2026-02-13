@@ -10,7 +10,7 @@ logo_height = "47px"
 # if logo_webp set false, will not generate WEBP version of logo | default is true
 logo_webp = true
 # logo text will only show when logo is missing.
-logo_text = "Forfify"
+logo_text = "Mohács 500"
 # theme-mode
 theme_switcher = true
 theme_default = "system" # available options [light/dark/system]
@@ -24,9 +24,9 @@ google_adsense = ""     # example: ca-pub-xxxxxxxxxxxxxxxx
 # custom script on header, example: custom_script= "<script>console.log(\"Hello World\")</script>"
 custom_script = ""
 # copyright
-copyright = "Copyright © 2024 [Themefisher](https://themefisher.com/). All Rights Reserved"
+copyright = "Copyright © 2026 Mohács 500. Minden jog fenntartva."
 #footer description
-footer_description = "Securing Your Digital World: Your Trusted Partner in Data Protection with Cutting Edge Solutions for Data Security."
+footer_description = "Mohács 500: Az ötszáz éves tragédiá­ból a reménység kapuját nyitjuk meg. Közös imára hívunk fel minden magyar és minden keresztény lelkiéletet."
 
 
 # background pattern
@@ -42,7 +42,7 @@ preloader = "" # use jpg, png, svg or gif format.
 # Navigation button
 [navigation_button]
 enable = true
-label = "Get Started"
+label = "Kapcsolat"
 link = "contact"
 
 # search
@@ -60,9 +60,9 @@ show_categories = true
 # seo meta data for OpenGraph / Twitter Card
 # seo module: https://github.com/gethugothemes/hugo-modules/tree/master/seo-tools/basic-seo
 [metadata]
-keywords = ["Boilerplate", "Hugo"]
-description = "Hugo & Tailwindcss Starter"
-author = "zeon.studio"
+keywords = ["Mohács 500", "magyarország", "imádság", "nemzeti megújulás", "lelki egység"]
+description = "Mohács 500: A magyar eklézsia közös imamozgalma a nemzeti megújulásért és lelki szabadságért"
+author = "Mohács 500"
 image = "images/og-image.png"
 
 
@@ -101,10 +101,10 @@ map_marker = "images/marker.png"
 
 # Subscription
 [quote_form]
-title = "Subscribe to Our Newsletter!"
-description = "Stay Informed with Our Latest Security Insights - Subscribe to Our Newsletter!"
-submit_button_label = "Subscribe"
-placeholder = "Enter your email"
+title = "Iratkozz fel a Mohács 500 híreire!"
+description = "Maradj információban a mozgalom fontos mérföldköveiről és imamegmozdulásairól!"
+submit_button_label = "Feliratkozás"
+placeholder = "Add meg az e-mail-ed"
 action = "#"
 
 
@@ -127,4 +127,4 @@ link = "https://github.com/"
 [[social]]
 title = "linkedin"
 icon = "fa-brands fa-linkedin" # fontawesome icon pack : https://fontawesome.com/icons/
-link = "https://www.linkedin.com/"	
+link = "https://www.linkedin.com/"

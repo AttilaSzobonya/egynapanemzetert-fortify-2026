@@ -1,9 +1,9 @@
 ---
 # Banner
 banner:
-  title: "Your Trusted Partner in <br /> Comprehensive Web Security"
-  description: "Securing Your Digital World: Your Trusted Partner in Data Protection with <br />
-  Cutting-Edge Solutions for Comprehensive Data Security."
+  title: "Mohács 500<br /> A nemzeti emlékezetből közös jövő"
+  description: "Ötszáz évvel a csata után nem gyászolni szeretnénk, hanem emlékezni és jövőt építeni. <br />
+  A múlt sebeiből kiindulva a jövő felelősségére hívunk minden magyar testvért és keresztény lelki életet."
   image:
     main: "/images/banner.png"
     left: "/images/banner-left.png"
@@ -13,45 +13,45 @@ banner:
   button:
     get_started:
       enable: true
-      label: "Get Started"
+      label: "További információ"
       link: "contact"
     learn_more:
       enable: true
-      label: "Learn More"
+      label: "Tudj meg többet"
       link: "about"
 
 #How it Works
 how_it_works:
-  subtitle: "How it works"
-  title: "How Fortify Security Solution Works"
-  description: "Your Trusted Partner in Data Protection with Cutting-Edge Solutions for <br />
-  Comprehensive Data Security."
+  subtitle: "Mit szeretnénk elérni"
+  title: "A Mohács 500 mozgalom pillérrei"
+  description: "Felekezeteken és szervezeti határokon átívelő lelki és közösségi mozgalom, <br />
+  amely a múlt sebeiből kiindulva a jövő felelősségére hív."
   features:
-    - title: "Advanced Detection"
-      description: "Our system continuously monitors your network and data environments for any suspicious activities."
-      icon: "fa-solid fa-spinner" 
-    - title: "Robust Data Encryption"
-      description: "We ensure that all sensitive data is encrypted and at rest, using industry-standard encryption protocols."
-      icon: "fa-solid fa-code-branch" 
-    - title: "Automated Response"
-      description: "In the event of a security incident, our automated response system takes immediate action."
-      icon: "fa-solid fa-wand-sparkles" 
+    - title: "Történelmi megemlékezés"
+      description: "Mohács 1526-ban nem a gyávaság helye volt, hanem az áldozaté. Az ott harcolók a hazájukért álltak ki, hősök voltak akik életüket tudatosan tették le családjaikért."
+      icon: "fa-solid fa-landmark" 
+    - title: "Lelki megújulás"
+      description: "Közös imára hívunk az egész nacionalban keresztény felekezeteket és közösségeket a nemzeti szabadság és megújulás érdekében."
+      icon: "fa-solid fa-dove" 
+    - title: "Felekezetközi egység"
+      description: "Újra megtanuljunk együtt gondolkodni és együtt imádkozni, kapcsolatokat építettünk lelkészek, pásztorok, missziók és gyülekezetek között."
+      icon: "fa-solid fa-hands-praying" 
 
 # Explained Features 
 explained_features:
-  title: "Interactive Chart Displays <br /> Key Metrics and Trends."
-  subtitle: "Features Explained"
-  description: "Your Trusted Partner in Data Protection with Cutting-Edge Solutions <br /> for Comprehensive Data Security."
+  title: "Két sorsfordító esemény. <br /> Egy közös misszi&oacute;."
+  subtitle: "A Moh&aacute;cs 500 fontosabb mérföldkövei"
+  description: "Húsvét szombatján 2026. április 4-én és augusztus 29-én vagyunk jelen <br /> ahol egy nemzetről álmodunk szabad&aacute;ban és lelki szabads&aacute;gban."
 
 # Pricing
 pricing:
-  title: "Choose a suitable plan"
-  subtitle: "Pricing & Plan"
-  description: "Your Trusted Partner in Data Protection with Cutting-Edge Solutions for <br /> Comprehensive Data Security."
+  title: "Csatlakozz a mozgalomhoz"
+  subtitle: "Közös ima, közös felelősség"
+  description: "A Mohács 500 egy nyitott kezdeményezés. Minden magyar testvér, minden keresztény lelki élet <br /> meghívása ez egy közös döntés a jövőről."
 
 # Customers Review
 customer_reviews:
-  title: "Customer Reviews"
-  subtitle: "12,000+ Happy Customers"
-  description: "Your Trusted Partner in Data Protection with Cutting-Edge Solutions for <br /> Comprehensive Data Security."
+  title: "Imamegmozdulások és találkozók"
+  subtitle: "2.600 + résztvevő eddig"
+  description: "A Parlament Főrendiházi termében 2023-2025 között háromszor tartottunk közbenjáró alkalmak, <br /> ahol összesen 910-en vettünk részt. 2025. október 23-án a BOK Csarnokban több mint 1700 ember gyűlt össze közös imára."
 ---
