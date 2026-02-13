@@ -1,0 +1,98 @@
+<footer class="bg-light py-16 xl:py-28">
+  <div class="container" data-aos="fade-up-sm">
+    <div class="row gy-5 justify-between lg:g-4">
+      <div class="sm:col-6 lg:col-4 lg:pe-16">
+        <div class="mb-5">
+          <a
+            class="navbar-brand inline-block"
+            href="{{ site.Home.RelPermalink }}">
+            {{ partial "logo" }}
+          </a>
+        </div>
+        <p class="mb-2.5 lg:mb-20">
+          {{ site.Params.footer_description | markdownify }}
+        </p>
+        {{ with .Site.Params.social }}
+          <ul class="social-icons">
+            {{ range . }}
+              <li>
+                <a
+                  aria-label="{{ .title }}"
+                  href="{{ .link | safeURL }}"
+                  target="_blank"
+                  rel="noopener noreferrer nofollow">
+                  <span class="sr-only">{{ .title }}</span>
+                  <i class="{{ .icon }} text-2xl"></i>
+                </a>
+              </li>
+            {{ end }}
+          </ul>
+        {{ end }}
+      </div>
+      <div class="sm:col-6 md:col-6 lg:col-4">
+        <div
+          class="flex flex-wrap gap-y-6 sm:flex-nowrap md:justify-end lg:justify-around">
+          <div class="w-[160px]">
+            <h3 class="mb-4 pt-2 text-base text-text-dark md:mb-9">
+              {{ T "resources" }}
+            </h3>
+            <ul class="flex flex-col gap-3">
+              {{ range site.Menus.footer_01 }}
+                <li>
+                  <a
+                    class="font-medium transition hover:text-tertiary"
+                    href="{{ .URL | relLangURL }}"
+                    >{{ .Name }}</a
+                  >
+                </li>
+              {{ end }}
+            </ul>
+          </div>
+          <div class="w-[160px]">
+            <h3 class="mb-4 pt-2 text-base text-text-dark md:mb-9">
+              {{ T "quick_info" }}
+            </h3>
+            <ul class="flex flex-col gap-3">
+              {{ range site.Menus.footer_02 }}
+                <li>
+                  <a
+                    class="font-medium transition hover:text-tertiary"
+                    href="{{ .URL | relLangURL }}"
+                    >{{ .Name }}</a
+                  >
+                </li>
+              {{ end }}
+            </ul>
+          </div>
+        </div>
+      </div>
+
+      <div class="sm:col-7 md:col-6 lg:col-4">
+        <h3 class="mb-4 text-xl font-normal text-text-dark">
+          {{ site.Params.quote_form.title | markdownify }}
+        </h3>
+        <p class="mb-6">
+          {{ site.Params.quote_form.description | markdownify }}
+        </p>
+        <form
+          action="{{ site.Params.quote_form.action | safeURL }}"
+          method="post"
+          class="flex justify-between rounded-full bg-white px-3 py-2">
+          <input
+            type="email"
+            placeholder="{{ site.Params.quote_form.placeholder }}"
+            class="form-input w-full rounded-full border-none! py-2! pl-2! placeholder:opacity-100"
+            required="" />
+          <button
+            class="rounded-full bg-secondary px-4 py-1 font-medium transition hover:opacity-80"
+            type="submit">
+            {{ site.Params.quote_form.submit_button_label | markdownify }}
+          </button>
+        </form>
+        <div class="copyright mt-5 lg:mt-14">
+          {{ site.Params.copyright | markdownify }}
+        </div>
+      </div>
+    </div>
+  </div>
+</footer>
