@@ -31,7 +31,7 @@ how_it_works:
       description: "Mohács 1526-ban nem a gyávaság helye volt, hanem az áldozaté. Az ott harcolók a hazájukért álltak ki, hősök voltak akik életüket tudatosan tették le családjaikért."
       icon: "fa-solid fa-landmark" 
     - title: "Lelki megújulás"
-      description: "Közös imára hívunk az egész nacionalban keresztény felekezeteket és közösségeket a nemzeti szabadság és megújulás érdekében."
+      description: "Közös imára hívunk az egész nemzetből keresztény felekezeteket és közösségeket a nemzeti szabadság és megújulás érdekében."
       icon: "fa-solid fa-dove" 
     - title: "Felekezetközi egység"
       description: "Újra megtanuljunk együtt gondolkodni és együtt imádkozni, kapcsolatokat építettünk lelkészek, pásztorok, missziók és gyülekezetek között."
