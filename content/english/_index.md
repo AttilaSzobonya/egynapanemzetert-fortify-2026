@@ -20,6 +20,14 @@ banner:
       label: "Tudj meg többet"
       link: "about"
 
+# Countdown
+countdown:
+  enable: true
+  title: "Visszaszámlálás"
+  subtitle: "2026. április 4. 10:00"
+  description: "Készüljünk együtt az alkalomra."
+  date: "2026-04-04T10:00:00"
+
 #How it Works
 how_it_works:
   subtitle: "Mit szeretnénk elérni"

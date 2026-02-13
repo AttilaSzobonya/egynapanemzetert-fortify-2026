@@ -47,7 +47,7 @@
       accordion.classList.toggle('active');
     });
   });
-  
+
 
   //----- pricing plane ----- //
   function pricingInit() {
@@ -111,6 +111,84 @@
 
   // Ensure the script runs when the page loads
   document.addEventListener("DOMContentLoaded", pricingInit);
+
+  // Countdown Timer
+  function countdownInit() {
+    const countdowns = document.querySelectorAll("[data-countdown-target]");
+
+    if (!countdowns.length) {
+      return;
+    }
+
+    const pad = (value) => String(value).padStart(2, "0");
+
+    const targets = Array.from(countdowns).map((element) => {
+      const targetRaw = element.getAttribute("data-countdown-target");
+      const targetDate = new Date(targetRaw);
+
+      return {
+        element,
+        targetDate,
+      };
+    });
+
+    const updateCountdown = ({ element, targetDate }) => {
+      if (Number.isNaN(targetDate.getTime())) {
+        return;
+      }
+
+      const now = new Date();
+      let diff = targetDate.getTime() - now.getTime();
+      const status = element.querySelector("[data-countdown-status]");
+
+      if (diff <= 0) {
+        diff = 0;
+        element.classList.add("is-complete");
+        if (status) {
+          status.textContent = "Elkezdődött";
+        }
+      } else if (status) {
+        status.textContent = "Az eseményig hátralévő idő";
+      }
+
+      const totalSeconds = Math.floor(diff / 1000);
+      const days = Math.floor(totalSeconds / 86400);
+      const hours = Math.floor((totalSeconds % 86400) / 3600);
+      const minutes = Math.floor((totalSeconds % 3600) / 60);
+      const seconds = totalSeconds % 60;
+
+      const values = {
+        days: String(days),
+        hours: pad(hours),
+        minutes: pad(minutes),
+        seconds: pad(seconds),
+      };
+
+      Object.entries(values).forEach(([key, value]) => {
+        const field = element.querySelector(
+          `[data-countdown-value="${key}"]`,
+        );
+        if (field) {
+          field.textContent = value;
+        }
+      });
+    };
+
+    const tick = () => {
+      targets.forEach(updateCountdown);
+    };
+
+    tick();
+    setInterval(tick, 1000);
+
+    document.addEventListener("visibilitychange", () => {
+      if (!document.hidden) {
+        tick();
+      }
+    });
+  }
+
+  document.addEventListener("DOMContentLoaded", countdownInit);
 
 
   // ############################## nav sub-menu toggle ##############################

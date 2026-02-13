@@ -139,6 +139,54 @@
   {{ end }}
   <!-- /Banner -->
 
+  <!-- Countdown -->
+  {{ with .Params.countdown }}
+    {{ if .enable }}
+      <section class="section pt-0">
+        <div class="container">
+          <div class="row justify-center">
+            <div class="lg:col-10">
+              <div
+                class="countdown-card text-center"
+                data-countdown-target="{{ .date }}"
+                data-aos="fade-up-sm">
+                <p class="mb-2 text-tertiary font-medium">
+                  {{ .title | markdownify }}
+                </p>
+                <h2 class="mb-3">{{ .subtitle | markdownify }}</h2>
+                {{ with .description }}
+                  <p class="text-lg mb-6">{{ . | markdownify }}</p>
+                {{ end }}
+                <p class="countdown-status text-sm" data-countdown-status>
+                  Az eseményig hátralévő idő
+                </p>
+                <div class="countdown-grid" aria-live="polite">
+                  <div class="countdown-item">
+                    <span class="countdown-value" data-countdown-value="days">00</span>
+                    <span class="countdown-label">Nap</span>
+                  </div>
+                  <div class="countdown-item">
+                    <span class="countdown-value" data-countdown-value="hours">00</span>
+                    <span class="countdown-label">Óra</span>
+                  </div>
+                  <div class="countdown-item">
+                    <span class="countdown-value" data-countdown-value="minutes">00</span>
+                    <span class="countdown-label">Perc</span>
+                  </div>
+                  <div class="countdown-item">
+                    <span class="countdown-value" data-countdown-value="seconds">00</span>
+                    <span class="countdown-label">Másodperc</span>
+                  </div>
+                </div>
+              </div>
+            </div>
+          </div>
+        </div>
+      </section>
+    {{ end }}
+  {{ end }}
+  <!-- /Countdown -->
+
   <!-- Brand Logo -->
   {{ partial "components/brand-logo.html" . }}
   <!-- /Brand Logo -->
