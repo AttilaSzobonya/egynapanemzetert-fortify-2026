@@ -1,7 +1,7 @@
 ---
 # Banner
 banner:
-  title: "Mohács 500<br /> A nemzeti emlékezetből közös jövő"
+  title: "Mohács&nbsp;500<br /> Közös emlékezetből közös jövő"
   description: "Ötszáz évvel a csata után nem gyászolni szeretnénk, hanem emlékezni és jövőt építeni. <br />
   A múlt sebeiből kiindulva a jövő felelősségére hívunk minden magyar testvért és keresztény lelki életet."
   image:
@@ -31,7 +31,7 @@ countdown:
 #How it Works
 how_it_works:
   subtitle: "Mit szeretnénk elérni"
-  title: "A Mohács 500 mozgalom pillérrei"
+  title: "A Mohács&nbsp;500 mozgalom pillérrei"
   description: "Felekezeteken és szervezeti határokon átívelő lelki és közösségi mozgalom, <br />
   amely a múlt sebeiből kiindulva a jövő felelősségére hív."
   features:
@@ -55,7 +55,7 @@ explained_features:
 pricing:
   title: "Csatlakozz a mozgalomhoz"
   subtitle: "Közös ima, közös felelősség"
-  description: "A Mohács 500 egy nyitott kezdeményezés. Minden magyar testvér, minden keresztény lelki élet <br /> meghívása ez egy közös döntés a jövőről."
+  description: "A Mohács&nbsp;500 egy nyitott kezdeményezés. Minden magyar testvér, minden keresztény lelki élet <br /> meghívása ez egy közös döntés a jövőről."
 
 # Customers Review
 customer_reviews:

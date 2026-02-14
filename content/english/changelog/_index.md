@@ -1,7 +1,7 @@
 ---
 meta_title: "Mérföldkövek"
 subtitle: "Mérföldkövek"
-title: "A Mohács 500 mozgalom útja"
+title: "A Mohács&nbsp;500 mozgalom útja"
 description: "Az elmúlt évek legfontosabb eseményei és <br> a következő mérföldkövek a közös imáért."
 
 list:
@@ -26,19 +26,19 @@ list:
 
       A belépés ingyenes, a regisztráció kötelező. Jelentkezési határidő: 2026. április 1.
 
-  - title: "Mohács 500 – Az 500. évforduló"
-    short_title: "Mohács 500 évforduló"
+  - title: "Mohács&nbsp;500 – Az 500. évforduló"
+    short_title: "Mohács&nbsp;500 évforduló"
     image: "/images/changelog/changelog-bg-2.png"
     date: 2026-08-29T05:00:00Z
     version: "2026. augusztus 29."
     content: |
-      ##### Mohács 500 – A reménység kapuja
+      ##### Mohács&nbsp;500 – A reménység kapuja
 
       Ötszáz évvel a csata után nem gyászolni szeretnénk, hanem emlékezni és jövőt építeni. Nem a vereség narratíváját erősíteni, hanem az összefogásét.
 
       Mohács 1526-ban nem a gyávaság helye volt, hanem az áldozaté. Az ott harcolók a hazájukért álltak ki – hősök voltak, akik életüket tudatosan tették le a családjaikért és a hazájukért.
 
-      A Mohács 500 célja, hogy a történelmi emlékezést összekapcsolja a lelki megújulással, a felekezetközi egységgel és a jövő generációinak felelős nevelésével.
+      A Mohács&nbsp;500 célja, hogy a történelmi emlékezést összekapcsolja a lelki megújulással, a felekezetközi egységgel és a jövő generációinak felelős nevelésével.
 
   - title: "BOK Csarnok – 1700+ résztvevő"
     short_title: "BOK Csarnok imaalkalom"

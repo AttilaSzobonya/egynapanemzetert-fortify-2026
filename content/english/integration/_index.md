@@ -1,7 +1,7 @@
 ---
 meta_title: "Együttműködések"
 subtitle: "Együttműködések"
-title: "Felekezetek és szervezetek a Mohács 500 mozgalomban"
+title: "Felekezetek és szervezetek a Mohács&nbsp;500 mozgalomban"
 description: "Felekezeteken és szervezeti határokon átívelő összefogás <br> a közös imáért és a nemzeti megújulásért."
 
 # Testimonials

@@ -36,7 +36,7 @@ list:
       **Húsvét szombatja – a győzelem küszöbe.**
 
       A Papp László Sportarénában több ezer ember együtt imádkozik a nemzetért. Felekezetek együtt állnak az Úr előtt, és a múlt sebeire lelki válasz születik.
-  - name: "Mohács 500"
+  - name: "Mohács&nbsp;500"
     designation: "Mohács, 2026. augusztus 29."
     avatar: "/images/avatar/person-6.png"
     content: |

@@ -21,5 +21,5 @@ third_list:
     description: "Imában kérjük a mindenható Istent, hogy a magyar nép identitásába fordulat jöjjön és a vesztes mentalitás alól felszabaduljon."
   second_item:
     title: "Közös jövőépítés"
-    description: "A Mohács 500 egy nyitott kezdeményezés. Vállaljunk többet a magyar nép jövőjének formálásában!"
+    description: "A Mohács&nbsp;500 egy nyitott kezdeményezés. Vállaljunk többet a magyar nép jövőjének formálásában!"
 ---

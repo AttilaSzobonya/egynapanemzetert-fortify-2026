@@ -1,9 +1,9 @@
-# Mohács 500
+# Mohács&nbsp;500
 ## Közös emlékezetből közös jövő
 Ötszáz évvel ezelőtt, 1526. augusztus 29-én a magyar történelem egyik legmegrázóbb eseménye zajlott le Mohács mezején. A közbeszéd ezt a napot gyakran a „nemzeti tragédia” jelzővel illeti. A kollektív emlékezetben Mohács sokáig a vereség, a szétesés, a sorscsapás szimbóluma lett.
 De vajon valóban csak ennyi?
 A Mohács és Trianon történetének vizsgálata és természetesen minden más élmény hatása egy nemzet életében azt igazolja, hogy a történelem nem csupán események sora, hanem identitásformáló erő. Amit egy nemzet önmagáról gondol, az meghatározza a jövőjét is. Ha Mohácsot kizárólag szégyenként hordozzuk, az beépül az önképünkbe. Ha azonban meglátjuk benne a helytállást, az összefogást, a hűséget és az áldozatvállalást, akkor más jövőt építünk.
-A Mohács 500 vízió nem politikai kezdeményezés, és nem pusztán történelmi megemlékezés. Egy nemzeti szintű, felekezeteken és szervezeti határokon átívelő lelki és közösségi mozgalom, amely a múlt sebeiből kiindulva a jövő felelősségére hív.
+A Mohács&nbsp;500 vízió nem politikai kezdeményezés, és nem pusztán történelmi megemlékezés. Egy nemzeti szintű, felekezeteken és szervezeti határokon átívelő lelki és közösségi mozgalom, amely a múlt sebeiből kiindulva a jövő felelősségére hív.
 
 # Egy látás születése 
 
@@ -26,15 +26,15 @@ Elhitették, hogy ennek vége és felszabadított nép leszünk, de valójában 
 
 ## 2026. augusztus 29. – Mohács
 Ötszáz évvel a csata után nem gyászolni szeretnénk, hanem emlékezni és jövőt építeni. Nem a vereség narratíváját erősíteni, hanem az összefogásét. Mohács 1526-ban nem a gyávaság helye volt, hanem az áldozaté. Az ott harcolók a hazájukért álltak ki. Ott hősök voltak, akik életüket tudatosan tették le a családjaikért, a hazájukért! A király és sokan mások a csata előtt megírták a végrendeletüket, megüzenték az otthoniaknak, hogy már nem fognak találkozni, másnak tartsanak imanapot ezekért a harcosokért. 
-A Mohács 500 célja, hogy a történelmi emlékezést összekapcsolja a lelki megújulással, a felekezetközi egységgel és a jövő generációinak felelős nevelésével. Nekünk most az adatott, hogy otthon hagyva a szokásainkat, hagyományainkat imaharcba vonuljunk először április 4.-én a Papp László Arénába, majd augusztus 29.-én Mohácsra!
+A Mohács&nbsp;500 célja, hogy a történelmi emlékezést összekapcsolja a lelki megújulással, a felekezetközi egységgel és a jövő generációinak felelős nevelésével. Nekünk most az adatott, hogy otthon hagyva a szokásainkat, hagyományainkat imaharcba vonuljunk először április 4.-én a Papp László Arénába, majd augusztus 29.-én Mohácsra!
 
 ## Meghívás
-A Mohács 500 egy nyitott kezdeményezés. Egy közös ügy.
+A Mohács&nbsp;500 egy nyitott kezdeményezés. Egy közös ügy.
 2026. április 4. – Budapest.
 2026. augusztus 29. – Mohács.
-Mohács 500 látás nem csak egy évforduló. Ez egy lehetőség. Egy fordulópont. Egy közös döntés a jövőről. Vállaljunk többet a magyar nép jövőjének formálásában!
+Mohács&nbsp;500 látás nem csak egy évforduló. Ez egy lehetőség. Egy fordulópont. Egy közös döntés a jövőről. Vállaljunk többet a magyar nép jövőjének formálásában!
 
-## Mohács 500 részletesen
+## Mohács&nbsp;500 részletesen
 
 2023-ban böjt közben a magyar történelmet tanulmányoztam, amikor észrevettem, hogy három év múlva lesz az 500. Évfordulója a mohácsi csatának. 
 A Szent Szellem szólt a szívemhez, hogy hozzuk össze a magyar eklézsiát, kezdjünk el imádkozni, mert a gonosz újra meg akarja ismételni amivel oly sokszor kísérletezett már: Európában a kereszténységet megsemmisíteni. Ennek egyik formája az iszlám terjeszkedése, kiteljesedése kontinensünkön.

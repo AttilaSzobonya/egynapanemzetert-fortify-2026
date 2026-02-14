@@ -1,6 +1,6 @@
 ---
 title: "Gyakran Ismételt Kérdések"
-meta_title: "GYIK | Mohács 500 – 2026. április 4. Nemzeti Imanap"
+meta_title: "GYIK | Mohács&nbsp;500 – 2026. április 4. Nemzeti Imanap"
 description: "Választ adunk a 2026. április 4-i Nemzeti Imanap leggyakrabban feltett kérdéseire. Helyszín, regisztráció, program és további tudnivalók."
 ---
 

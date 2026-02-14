@@ -7,7 +7,7 @@ draft: false
 hero:
   subtitle: "Kapcsolat"
   title: "Írj nekünk! <br> Elérhetőségeink és támogatás."
-  description: "A Mohács 500 mozgalom szervezőit az alábbi elérhetőségeken <br> lehet megkeresni kérdésekkel és visszajelzésekkel."
+  description: "A Mohács&nbsp;500 mozgalom szervezőit az alábbi elérhetőségeken <br> lehet megkeresni kérdésekkel és visszajelzésekkel."
   image: "/images/logo-icon.png"
   list:
     - icon: "fa-solid fa-envelope"

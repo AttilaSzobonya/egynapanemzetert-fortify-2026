@@ -1,6 +1,6 @@
 ---
-meta_title: "Rólunk – Mohács 500"
-title: "A Mohács 500 mozgalom: közös emlékezetből közös jövő"
+meta_title: "Rólunk – Mohács&nbsp;500"
+title: "A Mohács&nbsp;500 mozgalom: közös emlékezetből közös jövő"
 subtitle: "Rólunk"
 description: "Nemzeti szintű, felekezeteken és szervezeti határokon átívelő <br> lelki és közösségi mozgalom a jövő felelősségéért."
 left_image: "/images/about/about-2.jpg"
@@ -9,15 +9,15 @@ quote:
   avatar: "/images/avatar/person-1.png"
   quote_line: "/images/about/quote-line.png"
   quote_bg_shape: "/images/about/quote-bg-shape.png"
-  name: "Mohács 500"
+  name: "Mohács&nbsp;500"
   designation: "A mozgalom alapítói"
   content: |
-    A Mohács 500 vízió nem politikai kezdeményezés, és nem pusztán történelmi megemlékezés. Egy nemzeti szintű, felekezeteken és szervezeti határokon átívelő lelki és közösségi mozgalom, amely a múlt sebeiből kiindulva a jövő felelősségére hív.
+    A Mohács&nbsp;500 vízió nem politikai kezdeményezés, és nem pusztán történelmi megemlékezés. Egy nemzeti szintű, felekezeteken és szervezeti határokon átívelő lelki és közösségi mozgalom, amely a múlt sebeiből kiindulva a jövő felelősségére hív.
 
 core_values:
   title: "Értékeink"
   subtitle: "Alapértékek"
-  description: "A mozgalom szellemi és közösségi pillérei, amelyek <br> a Mohács 500 látás alapjait képezik."
+  description: "A mozgalom szellemi és közösségi pillérei, amelyek <br> a Mohács&nbsp;500 látás alapjait képezik."
 
   list:
     - icon: "fa-solid fa-hands-praying"

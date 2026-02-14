@@ -2,7 +2,7 @@
 # GYIK
 subtitle: "GYIK"
 title: "Gyakran Ismételt Kérdések"
-description: "A Nemzeti Imanappal és a Mohács 500 mozgalommal kapcsolatos <br> leggyakoribb kérdések és válaszok."
+description: "A Nemzeti Imanappal és a Mohács&nbsp;500 mozgalommal kapcsolatos <br> leggyakoribb kérdések és válaszok."
 
 # FAQ List
 list:
@@ -13,8 +13,8 @@ list:
     description: "A meghirdetett linken vagy QR-kód segítségével. A regisztráció kötelező, a jegyek konkrét helyre érvényesek. Csoportos regisztráció is lehetséges. Aki nem regisztrál, nem fog tudni belépni az arénába!"
   - title: "Mennyibe kerül a részvétel?"
     description: "A belépés ingyenes, de a regisztráció kötelező! A jelentkezési határidő 2026. április 1."
-  - title: "Mi a Mohács 500 mozgalom?"
-    description: "A Mohács 500 nem politikai kezdeményezés és nem pusztán történelmi megemlékezés. Egy nemzeti szintű, felekezeteken és szervezeti határokon átívelő lelki és közösségi mozgalom, amely a múlt sebeiből kiindulva a jövő felelősségére hív."
+  - title: "Mi a Mohács&nbsp;500 mozgalom?"
+    description: "A Mohács&nbsp;500 nem politikai kezdeményezés és nem pusztán történelmi megemlékezés. Egy nemzeti szintű, felekezeteken és szervezeti határokon átívelő lelki és közösségi mozgalom, amely a múlt sebeiből kiindulva a jövő felelősségére hív."
   - title: "Lesz online közvetítés?"
     description: "Nem lesz online vagy hibrid részvételi lehetőség. Az alkalmon való személyes jelenlét a lényeg."
   - title: "Lesz gyerekfelügyelet?"

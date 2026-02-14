@@ -1,7 +1,7 @@
 ---
-title: "Látás – Mohács 500"
-meta_title: "Látás – Mohács 500 | Közös emlékezetből közös jövő"
-description: "A Mohács 500 nem politikai kezdeményezés és nem pusztán történelmi megemlékezés, hanem egy nemzeti szintű lelki és közösségi mozgalom."
+title: "Látás – Mohács&nbsp;500"
+meta_title: "Látás – Mohács&nbsp;500 | Közös emlékezetből közös jövő"
+description: "A Mohács&nbsp;500 nem politikai kezdeményezés és nem pusztán történelmi megemlékezés, hanem egy nemzeti szintű lelki és közösségi mozgalom."
 ---
 
 ## Közös emlékezetből közös jövő
@@ -12,11 +12,11 @@ description: "A Mohács 500 nem politikai kezdeményezés és nem pusztán tört
 
 A Mohács és Trianon történetének vizsgálata – és természetesen minden más élmény hatása egy nemzet életében – azt igazolja, hogy a történelem nem csupán események sora, hanem **identitásformáló erő**. Amit egy nemzet önmagáról gondol, az meghatározza a jövőjét is. Ha Mohácsot kizárólag szégyenként hordozzuk, az beépül az önképünkbe. Ha azonban meglátjuk benne a helytállást, az összefogást, a hűséget és az áldozatvállalást, akkor más jövőt építünk.
 
-A **Mohács 500** vízió nem politikai kezdeményezés, és nem pusztán történelmi megemlékezés. Egy nemzeti szintű, felekezeteken és szervezeti határokon átívelő **lelki és közösségi mozgalom**, amely a múlt sebeiből kiindulva a jövő felelősségére hív.
+A **Mohács&nbsp;500** vízió nem politikai kezdeményezés, és nem pusztán történelmi megemlékezés. Egy nemzeti szintű, felekezeteken és szervezeti határokon átívelő **lelki és közösségi mozgalom**, amely a múlt sebeiből kiindulva a jövő felelősségére hív.
 
 ---
 
-## Mohács 500 részletesen
+## Mohács&nbsp;500 részletesen
 
 2023-ban böjt közben a magyar történelmet tanulmányoztam, amikor észrevettem, hogy három év múlva lesz az 500. évfordulója a mohácsi csatának.
 
@@ -65,11 +65,11 @@ Húsvét szombatján, azon a napon, amikor a világ legnagyobb fordulata követk
 
 ## Meghívás
 
-A Mohács 500 egy nyitott kezdeményezés. Egy közös ügy.
+A Mohács&nbsp;500 egy nyitott kezdeményezés. Egy közös ügy.
 
 **2026. április 4. – Budapest.**
 **2026. augusztus 29. – Mohács.**
 
-A Mohács 500 látás nem csak egy évforduló. Ez egy lehetőség. Egy fordulópont. Egy közös döntés a jövőről.
+A Mohács&nbsp;500 látás nem csak egy évforduló. Ez egy lehetőség. Egy fordulópont. Egy közös döntés a jövőről.
 
 **Vállaljunk többet a magyar nép jövőjének formálásában!**

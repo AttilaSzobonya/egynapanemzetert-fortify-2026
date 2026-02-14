@@ -25,7 +25,7 @@ weight = 4
 
 # footer menu
 [[footer_01]]
-name = "Látás – Mohács 500"
+name = "Látás – Mohács&nbsp;500"
 url = "/latas"
 weight = 1
 

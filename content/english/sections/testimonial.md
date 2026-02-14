@@ -1,7 +1,7 @@
 ---
 enable: true
 title: "Az Ige szól hozzánk"
-description: "Azok az igék, amelyek a Mohács 500 mozgalom szellemi alapjait alkotják."
+description: "Azok az igék, amelyek a Mohács&nbsp;500 mozgalom szellemi alapjait alkotják."
 
 # Testimonials
 testimonials:
