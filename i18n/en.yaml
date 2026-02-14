@@ -1,16 +1,16 @@
-read_more: Read More
-send: Send
-categories: Categories
-tags: Tags
-resources: Resources
-quick_info: Quick Info
-monthly: Monthly
-yearly: Yearly
-first_name: First Name
-last_name: Last Name
-email: Email
-company_name: Company Name
-subject: Subject
-write_message: Write Message
-send_message: Send Message
-back_to_home: Back to home
+read_more: Tovább olvasom
+send: Küldés
+categories: Kategóriák
+tags: Címkék
+resources: Források
+quick_info: Információ
+monthly: Április
+yearly: Augusztus
+first_name: Keresztnév
+last_name: Vezetéknév
+email: E-mail
+company_name: Gyülekezet / szervezet
+subject: Tárgy
+write_message: Üzenet
+send_message: Üzenet küldése
+back_to_home: Vissza a kezdőlapra

@@ -1,8 +1,8 @@
 ---
-meta_title: "Integration"
-subtitle: "Integration"
-title: "How Our Data Security Tools Fit into Your Workflow"
-description: "Your Trusted Partner in Data Protection with Cutting-Edge Solutions for <br> Comprehensive Data Security."
+meta_title: "Együttműködések"
+subtitle: "Együttműködések"
+title: "Felekezetek és szervezetek a Mohács 500 mozgalomban"
+description: "Felekezeteken és szervezeti határokon átívelő összefogás <br> a közös imáért és a nemzeti megújulásért."
 
 # Testimonials
 list:

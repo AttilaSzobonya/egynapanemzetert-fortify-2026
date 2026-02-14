@@ -1,41 +1,41 @@
 ---
-# Pricing
+# Events
 basic_plan:
-  title: "Basic Plan"
-  description: "Ideal for small businesses or individuals looking to secure their data with fundamental protection features."
-  currency: "$"
-  monthly_price: "29"
-  yearly_price: "129"
-  billed_monthly: "per month, billed monthly"
-  billed_yearly: "per month, billed yearly"
+  title: "Április 4."
+  description: "Nemzeti Imanap a Papp László Budapest Sportarénában. Húsvét szombatján a nemzet közös imára gyűlik össze."
+  currency: ""
+  monthly_price: ""
+  yearly_price: ""
+  billed_monthly: "Ingyenes részvétel"
+  billed_yearly: "Regisztráció kötelező"
   list:
-    - item: "Basic Threat Detection"
-    - item: "Basic Alerts & Reporting"
-    - item: "Daily Data Backup"
-    - item: "Email Support"
-    - item: "Single User License"
+    - item: "Közös ima a nemzetért"
+    - item: "Felekezetközi egység"
+    - item: "Gyerekfelügyelet 2 éves kortól"
+    - item: "Ingyenes belépés"
+    - item: "Regisztrációs határidő: ápr. 1."
   button:
     enable: true
-    label: "Select Basic Plan"
-    link: "contact"
+    label: "Részletek"
+    link: "aprilis-4"
 
 premium_plan:
-  title: "Premium Plan"
-  description: "Perfect for medium to large businesses requiring security features and priority support."
-  recommended: "Recommended"
-  currency: "$"
-  monthly_price: "99"
-  yearly_price: "199"
-  billed_monthly: "per month, billed monthly"
-  billed_yearly: "per month, billed yearly"
+  title: "Augusztus 29."
+  description: "Mohács – az 500. évforduló. Nem gyászolni, hanem emlékezni és jövőt építeni. A reménység kapuja."
+  recommended: "Fő esemény"
+  currency: ""
+  monthly_price: ""
+  yearly_price: ""
+  billed_monthly: "Mohács, helyszínen"
+  billed_yearly: "Részletek hamarosan"
   list:
-    - item: "Basic Threat Detection"
-    - item: "Basic Alerts & Reporting"
-    - item: "Daily Data Backup"
-    - item: "Email Support"
-    - item: "Single User License"
+    - item: "500. évforduló megemlékezés"
+    - item: "Nemzeti összefogás"
+    - item: "Közös ima Mohácson"
+    - item: "A reménység kapuja"
+    - item: "Jövőépítés közösen"
   button:
     enable: true
-    label: "Select Premium Plan"
-    link: "contact"
+    label: "Tudj meg többet"
+    link: "latas"
 ---

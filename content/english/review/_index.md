@@ -1,6 +1,6 @@
 ---
-meta_title: "Reviews"
-title: "Testimonials from Satisfied Customers of Fortify"
-subtitle: "Reviews"
-description: "Your Trusted Partner in Data Protection with Cutting-Edge Solutions for Comprehensive Data Security."
+meta_title: "Visszajelzések"
+title: "Imamegmozdulások és találkozók"
+subtitle: "Visszajelzések"
+description: "A Mohács 500 mozgalom eddigi alkalmainak összefoglalója."
 ---

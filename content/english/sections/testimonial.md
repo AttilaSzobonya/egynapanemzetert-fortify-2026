@@ -1,29 +1,29 @@
 ---
 enable: true
-title: "What Users Are Saying About Hugoplate"
-description: "Don't just take our word for it - hear from some of our satisfied users!  Check out some of our testimonials below to see what others are saying about Hugoplate."
+title: "Az Ige szól hozzánk"
+description: "Azok az igék, amelyek a Mohács 500 mozgalom szellemi alapjait alkotják."
 
 # Testimonials
 testimonials:
-  - name: "Marvin McKinney"
-    designation: "Web Designer"
+  - name: "Hóseás 2:17"
+    designation: "Prófécia"
     avatar: "/images/avatar-sm.png"
-    content: "Lorem ipsum dolor sit amet consectetur adipisicing elit. Qui iusto illo molestias, assumenda expedita commodi inventore non itaque molestiae voluptatum dolore, facilis sapiente, repellat veniam."
+    content: "Az Ákor völgyét a reménység kapujává teszem. Ott úgy énekel majd, mint ifjúsága napjaiban."
 
-  - name: "Marvin McKinney"
-    designation: "Web Designer"
+  - name: "Jeremiás 29:11"
+    designation: "Ígéret"
     avatar: "/images/avatar-sm.png"
-    content: "Lorem ipsum dolor sit amet consectetur adipisicing elit. Qui iusto illo molestias, assumenda expedita commodi inventore non itaque molestiae voluptatum dolore, facilis sapiente, repellat veniam."
+    content: "Mert csak én tudom, mi a tervem veletek – így szól az Úr –: békességet és nem romlást tervezek, és reményteljes jövőt adok nektek."
 
-  - name: "Marvin McKinney"
-    designation: "Web Designer"
+  - name: "Zsoltárok 33:12"
+    designation: "Áldás"
     avatar: "/images/avatar-sm.png"
-    content: "Lorem ipsum dolor sit amet consectetur adipisicing elit. Qui iusto illo molestias, assumenda expedita commodi inventore non itaque molestiae voluptatum dolore, facilis sapiente, repellat veniam."
+    content: "Boldog az a nemzet, amelynek Istene az Úr, az a nép, amelyet örökségül választott magának."
 
-  - name: "Marvin McKinney"
-    designation: "Web Designer"
+  - name: "2Krónikák 7:14"
+    designation: "Hívás"
     avatar: "/images/avatar-sm.png"
-    content: "Lorem ipsum dolor sit amet consectetur adipisicing elit. Qui iusto illo molestias, assumenda expedita commodi inventore non itaque molestiae voluptatum dolore, facilis sapiente, repellat veniam."
+    content: "Ha megalázza magát népem, és imádkozik, megkeresi arcomat, és megtér bűnös útjairól, én is meghallgatom a mennyből, megbocsátom vétküket, és meggyógyítom földjüket."
 
 # don't create a separate page
 build:

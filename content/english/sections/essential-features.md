@@ -1,27 +1,27 @@
 ---
-title: "Discover the Features That <br /> Makes Fortify Stand Out."
-subtitle: "Essential Feature"
-description: "Your Trusted Partner in Data Protection with Cutting-Edge Solutions for <br /> Comprehensive Data Security."
+title: "A mozgalom, amely <br /> a nemzet szívéhez szól."
+subtitle: "Fontos mérföldkövek"
+description: "Országos szintű imamegmozdulások, vezetői műhelyek és felekezetközi találkozók <br /> eredményei az elmúlt években."
 first_feature:
-  title: "Organize and understand data"
-  description: "Allows you to set thresholds for security parameters and receive real-time alerts when these thresholds are breached ensuring you stay informed f critical events."
+  title: "Amit eddig elértünk"
+  description: "Az elmúlt években újra megtanultunk együtt gondolkodni és együtt imádkozni. Kapcsolatokat építettünk lelkészek, pásztorok, missziók és gyülekezetek között."
   image: "/images/essential-features/feature-1.png"
   sub_feature:
-    - title: "Detailed User Logs"
-      description: "Our platform regularly logs all user activities including logins."
-      icon: "fa-solid fa-microchip"
-    - title: "Anomaly Detection"
-      description: "This includes unusual login times and access to restricted data."
-      icon: "fa-brands fa-squarespace"
+    - title: "910 résztvevő a Parlamentben"
+      description: "2023–2025 között háromszor tartottunk közbenjáró alkalmakat a Főrendiházi teremben."
+      icon: "fa-solid fa-landmark"
+    - title: "1700+ résztvevő a BOK Csarnokban"
+      description: "2025. október 23-án közös imára gyűlt össze a nemzet szerte érkező testvérek serege."
+      icon: "fa-solid fa-people-group"
 second_feature:
-  title: "Secure your data"
+  title: "Következő mérföldkövek"
   image: "/images/essential-features/feature-2.png"
   list:
-    - item: "Our platform ensures that all sensitive data is encrypted both during  transmission and while stored"
-    - item: "Implement role-based access controls (RBAC) and multi-factor authentication (MFA)."
-    - item: "Regularly audit user access to sensitive information and systems to ensure compliance with security policies"
+    - item: "2026. április 4. – Nemzeti Imanap a Papp László Budapest Sportarénában"
+    - item: "2026. augusztus 29. – Mohács: az 500. évforduló, a reménység kapuja"
+    - item: "Vármegyei találkozók, stratégiai egyeztetések és lelki fórumok országszerte"
   button:
     enable: true
-    label: "Get Started"
-    link: "feature"
+    label: "Tudj meg többet"
+    link: "latas"
 ---

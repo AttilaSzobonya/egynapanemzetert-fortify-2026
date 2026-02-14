@@ -3,23 +3,23 @@ image: "/images/features-explained/product.png"
 bg_image: "/images/features-explained/line.png"
 first_list:
   first_item:
-    title: "Security Status Indicator"
-    description: "Displays the current security status of your organization with a clear color-coded indicator."
+    title: "Április 4. – Budapest"
+    description: "Húsvét szombatján a Papp László Sportarénában gyűlünk össze közös imára. A halálból feltámadás, a vereségből győzelem napja."
   second_item:
-    title: "User Activity Monitoring"
-    description: "Highlights the most frequently accessed sensitive files or databases and the users involved, ensuring transparency and control over critical data."
+    title: "Ingyenes részvétel"
+    description: "A belépés ingyenes, de a regisztráció kötelező. A jegyek konkrét helyre érvényesek. Jelentkezési határidő: 2026. április 1."
 second_list:
   first_item:
-    title: "Threat Landscape Overview"
-    description: "Breaks down the threats by type (e.g., phishing, malware, ransomware) to give a detailed overview of the threat landscape."
+    title: "Augusztus 29. – Mohács"
+    description: "Ötszáz évvel a csata után nem gyászolni, hanem emlékezni és jövőt építeni szeretnénk. A reménység kapuja."
   second_item:
-    title: "Data Access Monitoring"
-    description: "Highlights the most frequently accessed sensitive files or databases and the users involved."
+    title: "Felekezetközi egység"
+    description: "Felekezetek együtt állnak az Úr előtt: közös ima, közös felelősség a nemzetért."
 third_list:
   first_item:
-    title: "Incident Management"
-    description: "Lists the number of active security incidents currently being addressed."
+    title: "Nemzeti fordulat"
+    description: "Imában kérjük a mindenható Istent, hogy a magyar nép identitásába fordulat jöjjön és a vesztes mentalitás alól felszabaduljon."
   second_item:
-    title: "Compliance Monitoring"
-    description: "Our system continuously monitors your network and data environments for any suspicious activities."
+    title: "Közös jövőépítés"
+    description: "A Mohács 500 egy nyitott kezdeményezés. Vállaljunk többet a magyar nép jövőjének formálásában!"
 ---

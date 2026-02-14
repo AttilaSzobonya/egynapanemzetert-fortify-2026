@@ -102,29 +102,24 @@ map_marker = "images/marker.png"
 # Subscription
 [quote_form]
 title = "Iratkozz fel a Mohács 500 híreire!"
-description = "Maradj információban a mozgalom fontos mérföldköveiről és imamegmozdulásairól!"
+description = "Maradj informált a mozgalom fontos mérföldköveiről és imamegmozdulásairól!"
 submit_button_label = "Feliratkozás"
-placeholder = "Add meg az e-mail-ed"
+placeholder = "Add meg az e-mail címed"
 action = "#"
 
 
 ############################# social site ########################
 [[social]]
 title = "facebook"
-icon = "fab fa-facebook" # fontawesome icon pack : https://fontawesome.com/icons/
+icon = "fab fa-facebook"
 link = "https://www.facebook.com/"
 
 [[social]]
-title = "twitter"
-icon = "fab fa-twitter" # fontawesome icon pack : https://fontawesome.com/icons/
-link = "https://twitter.com/"
+title = "weboldal"
+icon = "fa-solid fa-globe"
+link = "https://www.alabastromprojekt.hu"
 
 [[social]]
-title = "github"
-icon = "fa-brands fa-github" # fontawesome icon pack : https://fontawesome.com/icons/
-link = "https://github.com/"
-
-[[social]]
-title = "linkedin"
-icon = "fa-brands fa-linkedin" # fontawesome icon pack : https://fontawesome.com/icons/
-link = "https://www.linkedin.com/"
+title = "email"
+icon = "fa-solid fa-envelope"
+link = "mailto:alabastromprojekt@gmail.com"

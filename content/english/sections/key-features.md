@@ -1,20 +1,20 @@
 ---
-title: "Explore Our Features to <br /> Keep Your Data Safe"
-subtitle: "Key Features"
-description: "Your Trusted Partner in Data Protection with Cutting-Edge Solutions for <br /> Comprehensive Data Security."
+title: "Ismerd meg a Mohács 500 <br /> legfontosabb oldalait"
+subtitle: "Fontos oldalak"
+description: "A mozgalom megismeréséhez és a részvételhez <br /> az alábbi oldalakon találsz minden fontos információt."
 features:
-  - title: "Continuously evaluates potential security threats and impact"
-    description: "This includes suggesting security patches, policy updates, and other preventive measures to reduce the likelihood and impact of threats."
+  - title: "Látás – Mohács 500: A közös emlékezetből közös jövő"
+    description: "Ismerd meg a mozgalom szellemi hátterét, az Ákor völgyének prófétai üzenetét és a Mohács 500 célkitűzéseit."
     image: "/images/key-features/feature-1.png"
-  - title: "Presents a view of your organization security posture"
-    description: "Allows you to set thresholds for security parameters and receive real-time alerts when these thresholds are breached ensuring you stay informed of critical events."
+  - title: "Április 4. – Nemzeti Imanap a Papp László Arénában"
+    description: "Húsvét szombatján, 2026. április 4-én több ezer ember együtt imádkozik a nemzetért. Tudj meg mindent az eseményről."
     image: "/images/key-features/feature-2.png"
 main_feature:
-  title: "Monitors and logs all the data access events"
-  description: "Monitors and logs all data access events, including who accessed what data, when, and from where. This provides a clear audit trail for compliance and security investigations."
+  title: "GYIK – Gyakran Ismételt Kérdések"
+  description: "Regisztráció, megközelítés, program, gyerekfelügyelet és minden egyéb gyakorlati kérdés egy helyen."
   image: "/images/key-features/feature-3.png"
   button:
     enable: true
-    label: "Learn More"
-    link: "feature"
+    label: "GYIK megtekintése"
+    link: "gyik"
 ---

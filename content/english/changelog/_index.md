@@ -1,90 +1,64 @@
 ---
-meta_title: "Changelog"
-subtitle: "Changelog"
-title: "Our Latest Features and Improvements"
-description: "Your Trusted Partner in Data Protection with Cutting-Edge Solutions for <br> Comprehensive Data Security."
+meta_title: "Mérföldkövek"
+subtitle: "Mérföldkövek"
+title: "A Mohács 500 mozgalom útja"
+description: "Az elmúlt évek legfontosabb eseményei és <br> a következő mérföldkövek a közös imáért."
 
 list:
-  - title: "Advanced Threat Detection Module & Enhanced Two-Factor Authentication"
-    short_title: "Advanced Threat Detection Module"
+  - title: "Áprilisi Nemzeti Imanap – Papp László Sportaréna"
+    short_title: "Nemzeti Imanap 2026"
     image: "/images/changelog/changelog-bg-1.png"
-    date: 2022-04-04T05:00:00Z
-    version: "Version 4.5.0"
+    date: 2026-04-04T05:00:00Z
+    version: "2026. április 4."
     content: |
-      ##### Advanced Threat Detection Module & Enhanced Two-Factor Authentication
+      ##### Nemzeti Imanap – Papp László Budapest Sportaréna
 
-      **New Features:**
+      **Húsvét szombat – a győzelem küszöbe**
 
-      Our new machine learning algorithms detect phishing attempts in real-time, significantly increasing the security of our email systems. This advanced detection system analyzes vast amounts of data to identify patterns and anomalies associated with phishing attacks. It provides immediate alerts to users and administrators, allowing for swift action to prevent potential security breaches.
+      Húsvét szombat a keresztény hit egyik legmélyebb pillanata. A kereszt már mögöttünk van, a feltámadás még előttünk. Ebben a szellemi időben gyűlünk össze a Papp László Sportarénában.
 
-      Additionally, we've introduced enhanced two-factor authentication (2FA) methods to strengthen account security. Users can now choose from multiple 2FA options, including:
+      **A nap célja:**
 
-      1. **Biometric Authentication**: Users can utilize fingerprint scanning, facial recognition, or voice recognition for a more secure and user-friendly authentication process.
-      2. **Hardware Tokens**: Physical tokens that generate one-time passcodes, providing an additional layer of security that is not susceptible to phishing attacks.
-      3. **Push Notifications**: Secure push notifications sent to a user’s registered mobile device, allowing for quick and easy approval of login attempts.
-      4. **SMS and Email OTPs**: One-time passcodes sent via SMS or email, ensuring that even if one method is compromised, the account remains secure through another channel.
+      1. **Közös ima a nemzetért** – több ezer ember együtt imádkozik, felekezetek együtt állnak az Úr előtt.
+      2. **Történelmi feldolgozás** – a magyar történelem jelentős szellemi-lelki eseményei előtt megállunk imában.
+      3. **Fordulat a nemzeti identitásban** – imában kérjük a mindenható Istent, hogy a magyar nép identitásába fordulat jöjjön.
+      4. **Megvallás** – ennek az országnak Jézus Krisztus az Ura, valódi szabadságot egyedül Ő hoz.
 
-      These features are designed to provide maximum security with minimal disruption to the user experience, ensuring that your sensitive information remains protected against the latest threats.
+      A belépés ingyenes, a regisztráció kötelező. Jelentkezési határidő: 2026. április 1.
 
-      **Bug Fixes:**
-
-      We have addressed several critical issues to enhance the stability and reliability of our security platform:
-
-      1. **2FA Login Process**: Fixed an issue where the login process would sometimes fail when 2FA was enabled, particularly under conditions of high server load or network latency. This fix ensures a smoother and more reliable authentication experience for all users.
-      2. **Performance Improvements**: Resolved performance issues that caused delays in threat detection notifications. These optimizations have reduced the latency between threat detection and alert generation, ensuring that administrators and users are informed of potential threats in real time.
-      3. **Data Synchronization**: Fixed a bug where user data was not properly synchronized across different modules of the security system, which occasionally led to inconsistent user states and permissions.
-      4. **User Interface Enhancements**: Improved the user interface to provide clearer instructions and feedback during the 2FA setup process, reducing the likelihood of user errors and improving overall satisfaction.
-      5. **Compatibility Fixes**: Addressed compatibility issues with various browsers and operating systems to ensure that all users, regardless of their device or software, can utilize the full range of security features without encountering technical difficulties.
-      6. **Logging and Reporting**: Enhanced logging mechanisms to provide more detailed and actionable insights into security events and system performance, aiding administrators in their efforts to monitor and respond to potential issues.
-      7. **Error Handling**: Improved error handling to provide more informative messages and recovery options in the event of a failure, helping users to resolve issues quickly and efficiently without needing extensive technical support.
-
-      These updates are part of our ongoing commitment to providing the most secure, reliable, and user-friendly security solutions available. We continuously monitor and respond to feedback to ensure that our platform meets the evolving needs of our users and remains at the forefront of cybersecurity technology.
-
-  - title: "Real-Time Intrusion Detection System & User Activity Monitoring"
-    short_title: "Intrusion Detection & Activity Monitoring"
+  - title: "Mohács 500 – Az 500. évforduló"
+    short_title: "Mohács 500 évforduló"
     image: "/images/changelog/changelog-bg-2.png"
-    date: 2022-04-04T05:00:00Z
-    version: "Version 4.4.0"
+    date: 2026-08-29T05:00:00Z
+    version: "2026. augusztus 29."
     content: |
-      ##### Real-Time Intrusion Detection System & User Activity Monitoring
+      ##### Mohács 500 – A reménység kapuja
 
-      **New Features:**
+      Ötszáz évvel a csata után nem gyászolni szeretnénk, hanem emlékezni és jövőt építeni. Nem a vereség narratíváját erősíteni, hanem az összefogásét.
 
-      Implemented a real-time intrusion detection system that alerts administrators of potential breaches instantly. User activity monitoring now includes detailed reports on login attempts, data access, and file modifications.
+      Mohács 1526-ban nem a gyávaság helye volt, hanem az áldozaté. Az ott harcolók a hazájukért álltak ki – hősök voltak, akik életüket tudatosan tették le a családjaikért és a hazájukért.
 
-      **Bug Fixes:**
+      A Mohács 500 célja, hogy a történelmi emlékezést összekapcsolja a lelki megújulással, a felekezetközi egységgel és a jövő generációinak felelős nevelésével.
 
-      Corrected a bug that caused false positives in the intrusion detection alerts. Fixed an issue where user activity logs were not displaying correctly for certain users.
-
-  - title: "Enhanced Data Encryption & Secure File Sharing"
-    short_title: "Data Encryption & File Sharing"
+  - title: "BOK Csarnok – 1700+ résztvevő"
+    short_title: "BOK Csarnok imaalkalom"
     image: "/images/changelog/changelog-bg-3.png"
-    date: 2022-04-04T05:00:00Z
-    version: "Version 4.3.0"
+    date: 2025-10-23T05:00:00Z
+    version: "2025. október 23."
     content: |
-      ##### Enhanced Data Encryption & Secure File Sharing
+      ##### BOK Csarnok – Közös ima a nemzetért
 
-      **New Features:**
+      A budapesti BOK Csarnokban több mint 1700 ember gyűlt össze közös imára a nemzetért. Ez az alkalom nem demonstráció volt, hanem egy jelzés: létezik egy vágy az egységre. Létezik egy csendes, de erős törekvés arra, hogy a történelmi sebeink fölött ne megosztottság, hanem összefogás szülessen.
 
-      Upgraded our data encryption standards to AES-256, providing stronger security for stored and transmitted data. Introduced secure file sharing capabilities with end-to-end encryption.
-
-      **Bug Fixes:**
-
-      Fixed an encryption bug that caused errors during data export. Resolved issues with file sharing permissions not being applied correctly.
-
-  - title: "Comprehensive Security Audits & Automated Compliance Checks"
-    short_title: "Security Audits & Compliance"
+  - title: "Parlamenti imaalkalmak – 910 résztvevő"
+    short_title: "Parlamenti imaalkalmak"
     image: "/images/changelog/changelog-bg-4.png"
-    date: 2022-04-04T05:00:00Z
-    version: "Version 4.2.0"
+    date: 2023-01-01T05:00:00Z
+    version: "2023–2025"
     content: |
-      ##### Comprehensive Security Audits & Automated Compliance Checks
+      ##### Parlamenti imaalkalmak a Főrendiházi teremben
 
-      **New Features:**
+      A Parlament Főrendiházi termében 2023–2025 között háromszor tartottunk közbenjáró alkalmakat, ahol összesen 910-en vettünk részt. A rendszeresen szervezett Lelkészműhelyek és a több megyét érintő körutak azt a célt szolgálták, hogy újra megtanuljunk együtt gondolkodni és együtt imádkozni.
 
-      Launched comprehensive security audits that assess system vulnerabilities and compliance with industry standards. Automated compliance checks now support GDPR, HIPAA, and CCPA regulations.
-
-      **Bug Fixes:**
-
-      Fixed issues with the audit report generation that sometimes omitted critical details. Corrected compliance check errors that incorrectly flagged certain configurations.
+      Kapcsolatokat építettünk lelkészek, pásztorok, missziók és gyülekezetek között.
 ---

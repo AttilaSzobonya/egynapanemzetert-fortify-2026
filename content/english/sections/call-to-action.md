@@ -1,12 +1,12 @@
 ---
 enable: true
-title: "Secure Your Data with Fortify Protection Solution"
-description: "Allows you to set thresholds for security parameters and receive real-time alerts when these thresholds are breached."
+title: "Csatlakozz a Nemzeti Imanaphoz – 2026. április 4."
+description: "Gyere el a Papp László Sportarénába, és imádkozzunk együtt a nemzetért. A belépés ingyenes, de a regisztráció kötelező."
 image: "/images/cta-bg.png"
 button:
   enable: true
-  label: "Get Started"
-  link: "contact"
+  label: "Részletek és GYIK"
+  link: "gyik"
 
 # don't create a separate page
 build:

@@ -44,3 +44,148 @@ Teljes szívvel hisszük, hogy ez nem a végleges sorsunk, az 500 évforduló eg
 Izraelben volt egy völgy, az Ákor völgye, ahol vereséget szenvedtek, nem szívesen emlékeztek rá,  a nemzeti átok, gyász helyének tartották. 
 A mi “Ákor völgyünk” Mohács. Isten szólt prófétáján keresztül, hogy: “Az Ákor völgyét a reménység kapujává teszem.” 
 Ebben hiszünk mi is, ezért hívunk mindenkit augusztus 29-ére Mohácsra, emeljük fel egy szívvel a szavunkat a mi Urunkhoz Jézushoz, hadd legyen számunkra Mohács a REMÉNYSÉG KAPUJA, hogy  az évszázados átokból kijöve egy új nap vírradjon fel a magyar nemzet egén!
+
+# 2026.04.04 Nemzeti Imanap – Gyakran Ismételt Kérdések (GYIK)
+
+
+
+1. Általános információk
+
+1. Mikor és hol kerül megrendezésre a konferencia?
+
+2026.04.04 - Papp László Sportaréna Budapest, Stefánia út 2.
+
+2. Hogyan lehet megközelíteni a helyszínt?
+
+Tömegközlekedéssel:
+
+🚇 Metróval
+
+-   M2 (piros metró) → Stadionok megálló
+-   A kijárattól 2–3 perc séta az Aréna
+-   Belváros felől: Deák Ferenc tér → 10 perc
+-   Keleti pályaudvartól: 1 megálló
+
+🚋 Villamossal
+
+-   1-es villamos → Kerepesi út / Hungária körút (Stadionok)
+-   Megállótól 3–5 perc séta
+
+🚌 Busszal / trolival
+
+Stadionok csomópontnál sok járat megáll, pl.:
+
+-   Busz: 95, 130, 195
+-   Troli: 75, 77
+
+🚆 Vidékről érkezve
+
+-   Keleti pályaudvar → M2 metró 1 megálló
+-   Népliget buszpályaudvar → 1-es villamos
+-   Puskás Aréna vasúti megálló → ~10–12 perc séta
+
+Főbb irányok:
+
+
+
+-   M3 / M30 / Debrecen felől: M3 → Kacsóh Pongrác út → Hungária körút → Kerepesi út csomópont (Aréna)
+-   M5 / M4 felől: Hungária körút → Kerepesi út
+-   M1 / M7 felől: Hungária körút keleti irány → Kerepesi út
+-   Belvárosból: Thököly út → Stefánia út
+
+🅿️ Parkolás az Arénánál
+
+-   Az Aréna alatt mélygarázs (≈1000+ hely)
+-   Bejárat: Ifjúság útja / Stefánia út felől
+-   Rendezvényeknél gyorsan megtelik
+
+🅿️ Alternatív parkolás (gyalog 5–10 perc)
+
+-   Puskás Aréna körüli parkolók
+-   Stefánia út menti parkolás
+-   Kerepesi út környéki parkolóhelyek
+
+✅ Rendezvény nap tanács (pl. ápr. 4.):
+
+-   Érdemes legalább 60–90 perccel előbb érkezni
+-   A Hungária körút környéke torlódik
+
+3. Lesz online vagy hibrid részvételi lehetőség?
+
+Nem lesz online közvetítés.
+
+4. Milyen nyelven zajlanak az előadások?
+
+Magyar nyelven.
+
+2. Regisztráció és jegyek
+
+6. Hogyan lehet regisztrálni a konferenciára?
+
+A meghirdetett linken vagy QR kód segítségével.
+
+A regisztráció kötelező, a jegyek konkrét helyre érvényesek.
+
+Regisztrálni lehet csoportosan is, ha valaki utána kezeli az e-mailen átvett jegyeket.
+
+7. Meddig lehet jelentkezni?
+
+2026.04.01.
+
+8. Mennyibe kerül a részvétel?
+
+A belépés ingyenes, de a regisztrációt nem lehet figyelmen kívül hagyni!
+
+Aki nem regisztrál, nem fog tudni belépni az arénába!
+
+9. Lemondható vagy átruházható a jegy?
+
+Lemondani nem lehet, de átadhatod másnak.
+
+3. Program és előadások
+
+10. Hol található a részletes program?
+
+A program itt a web oldalon megtalálható. Teljes részletességgel nem írtuk ki, mert van terv, de hagyjuk, hogy imában a Szent Szellem vezessen bennünket.
+
+11. Lesznek-e párhuzamos szekciók?
+
+Nem.
+
+14. Elérhetők lesznek-e az előadások anyagai utólag?
+
+Nem.
+
+15. Lesz gyerekfelügyelet?
+
+Igen, 2 éves kortól. Ehhez a regisztrációban megadott e-mail cymen kapcs értesítést, ha megjelölted, hogy igényleg a gyerekszolglatot.
+
+5. Parkolás
+
+16.. Lesz-e parkolási lehetőség a helyszínen?
+
+Igen, van parkolási lehetőség a mélygarázsban. Ennek díját mindenkinek rendeznie kell majd a kihajtás előtt.
+
+6. Ellátás
+
+17. Biztosítanak-e étkezést?
+
+Nem biztosítunk étkezést.
+
+
+
+7. Támogatás
+
+25. Hogyan lehet támogatást adni?
+
+Fogunk lehetőséget biztosítani adományok gyűjtésével, melynek egyik formája a bankkártyás adományozás lesz.
+
+8. Kapcsolat
+
+28. Kit lehet keresni további kérdésekkel?
+
+alabastromprojekt@gmail.com
+
+29. Hol érhetők el a szervezők elérhetőségei?
+
+www.alabastromprojekt.hu

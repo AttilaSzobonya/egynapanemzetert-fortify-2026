@@ -1,59 +1,47 @@
 ---
-meta_title: "About"
-title: "About Fortify, Our Commitment to Securing Your Data"
-subtitle: "About Us"
-description: "Your Trusted Partner in Data Protection with Cutting-Edge Solutions for <br> Comprehensive Data Security."
+meta_title: "Rólunk – Mohács 500"
+title: "A Mohács 500 mozgalom: közös emlékezetből közös jövő"
+subtitle: "Rólunk"
+description: "Nemzeti szintű, felekezeteken és szervezeti határokon átívelő <br> lelki és közösségi mozgalom a jövő felelősségéért."
 left_image: "/images/about/about-2.jpg"
 right_image: "/images/about/about-1.jpg"
 quote:
   avatar: "/images/avatar/person-1.png"
   quote_line: "/images/about/quote-line.png"
   quote_bg_shape: "/images/about/quote-bg-shape.png"
-  name: "Adam Watson"
-  designation: "Founder and CEO."
+  name: "Mohács 500"
+  designation: "A mozgalom alapítói"
   content: |
-    Welcome to Fortify! Our team is dedicated to safeguarding your data with the most advanced security solutions available. In today's digital age, data security is not just a necessity all share.
+    A Mohács 500 vízió nem politikai kezdeményezés, és nem pusztán történelmi megemlékezés. Egy nemzeti szintű, felekezeteken és szervezeti határokon átívelő lelki és közösségi mozgalom, amely a múlt sebeiből kiindulva a jövő felelősségére hív.
 
 core_values:
-  title: "Our Values"
-  subtitle: "Core Values"
-  description: "Your Trusted Partner in Data Protection with Cutting-Edge Solutions for <br> Comprehensive Data Security."
+  title: "Értékeink"
+  subtitle: "Alapértékek"
+  description: "A mozgalom szellemi és közösségi pillérei, amelyek <br> a Mohács 500 látás alapjait képezik."
 
   list:
-    - icon: "fa-solid fa-spinner" # get outline svg icons from here - https://www.svgrepo.com/vectors/security/outlined/
-      title: "Innovation"
-      description: "Continuously improving and innovating our solutions to stay ahead of cyber threats."
-    - icon: "fa-solid fa-code-branch" # get outline svg icons from here - https://www.svgrepo.com/vectors/security/outlined/
-      title: "Integrity"
-      description: "Upholding the highest standards of honesty and transparency in all our dealings."
-    - icon: "fa-solid fa-wand-sparkles" # get outline svg icons from here - https://www.svgrepo.com/vectors/security/outlined/
-      title: "Customer-Centric"
-      description: "Maintaining the highest levels of honesty and transparency in all our interactions."
+    - icon: "fa-solid fa-hands-praying"
+      title: "Imádság"
+      description: "Közös imára hívunk az egész nemzetből keresztény felekezeteket és közösségeket a nemzeti megújulás érdekében."
+    - icon: "fa-solid fa-people-group"
+      title: "Egység"
+      description: "Felekezeteken és szervezeti határokon átívelő összefogás, ahol újra megtanulunk együtt gondolkodni és együtt imádkozni."
+    - icon: "fa-solid fa-dove"
+      title: "Reménység"
+      description: "Az Ákor völgyét a reménység kapujává tesszük. Az évszázados átokból kijőve új nap virrad a magyar nemzet egén."
 
   stats:
-    - label: "Helped over 1000 businesses"
-      value: "1000+"
-    - label: "Customer Satisfaction"
-      value: "99.9%"
-    - label: "Support Availability"
-      value: "24/7"
+    - label: "Résztvevő eddig összesen"
+      value: "2600+"
+    - label: "Parlamenti imaalkalom"
+      value: "3"
+    - label: "BOK Csarnok, 2025. okt. 23."
+      value: "1700+"
 
 our_team:
-  title: "Meet Our Team"
-  subtitle: "Our Team"
-  description: "Your Trusted Partner in Data Protection with Cutting-Edge Solutions for <br> Comprehensive Data Security."
+  title: ""
+  subtitle: ""
+  description: ""
 
-  list:
-    - name: "Brooklyn Simmons"
-      image: "/images/team/1.jpg"
-      company: "Abstergo Ltd."
-    - name: "Annette Black"
-      image: "/images/team/2.jpg"
-      company: "Biffco Enterprises Ltd."
-    - name: "Darrell Steward"
-      image: "/images/team/3.jpg"
-      company: "Binford Ltd."
-    - name: "Devon Lane"
-      image: "/images/team/4.jpg"
-      company: "Barone LLC."
+  list: []
 ---

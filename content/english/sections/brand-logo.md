@@ -1,7 +1,7 @@
 ---
 # Brand Logo
 brand:
-  title: "Trusted by thousands of companies worldwide"
+  title: "Összefogás felekezeteken és szervezeti határokon átívelve"
   logo:
     - image: "/images/brand-logo/1.svg"
     - image: "/images/brand-logo/2.svg"

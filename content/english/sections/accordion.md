@@ -1,22 +1,22 @@
 ---
-# Our Customers
-subtitle: "FAQ"
-title: "Frequently Asked Questions"
-description: "Your Trusted Partner in Data Protection with Cutting-Edge Solutions for <br> Comprehensive Data Security."
+# GYIK
+subtitle: "GYIK"
+title: "Gyakran Ismételt Kérdések"
+description: "A Nemzeti Imanappal és a Mohács 500 mozgalommal kapcsolatos <br> leggyakoribb kérdések és válaszok."
 
 # FAQ List
 list:
-  - title: "What is two-factor authentication (2FA) and how does it enhance security?"
-    description: "If you receive a suspicious email, do not click on any links or download attachments. Verify the sender's email address and look for signs of phishing, such as misspellings or unusual requests. If in doubt, contact the sender directly using a known, trusted method of communication. Report the email to your IT department or email provider."
+  - title: "Mikor és hol lesz a Nemzeti Imanap?"
+    description: "2026. április 4-én, Húsvét szombatján a Papp László Budapest Sportarénában (Budapest, Stefánia út 2.). Az alkalom magyar nyelven zajlik."
     active: true
-  - title: "What should I do if I receive a suspicious email?"
-    description: "Receiving a suspicious email? Don't click on links or download attachments. Verify the sender's email address and look for phishing signs, like misspellings or strange requests. If uncertain, reach out to the sender directly via a trusted method. Report it to your IT department or email provider."
-  - title: "What is encryption and how does it protect my data?"
-    description: "When you get a suspicious email, don't click any links or download attachments. Verify the sender's email address and look for phishing signs, such as misspellings or strange requests. If uncertain, contact the sender using a reliable method. Report the email to your IT department or email provider."
-  - title: "How can I ensure my mobile devices are secure?"
-    description: "If you receive a suspicious email, do not click on any links or download attachments. Verify the sender's email address and look for signs of phishing, such as misspellings or unusual requests. If in doubt, contact the sender directly using a known, trusted method of communication. Report the email to your IT department or email provider."
-  - title: "What are the common signs of a data breach?"
-    description: "Received a suspicious email? Refrain from clicking any links or downloading attachments. Verify the sender's email and check for phishing signs, like misspellings or odd requests. If unsure, contact the sender via a trusted method. Report the email to your IT department or email provider."
-  - title: "How can I create a strong password?"
-    description: "If a suspicious email arrives, do not click on links or download attachments. Verify the sender's email address and look for phishing signs, such as typos or unusual requests. If unsure, contact the sender directly using a trusted method. Report the email to your IT department or email provider."
+  - title: "Hogyan lehet regisztrálni?"
+    description: "A meghirdetett linken vagy QR-kód segítségével. A regisztráció kötelező, a jegyek konkrét helyre érvényesek. Csoportos regisztráció is lehetséges. Aki nem regisztrál, nem fog tudni belépni az arénába!"
+  - title: "Mennyibe kerül a részvétel?"
+    description: "A belépés ingyenes, de a regisztráció kötelező! A jelentkezési határidő 2026. április 1."
+  - title: "Mi a Mohács 500 mozgalom?"
+    description: "A Mohács 500 nem politikai kezdeményezés és nem pusztán történelmi megemlékezés. Egy nemzeti szintű, felekezeteken és szervezeti határokon átívelő lelki és közösségi mozgalom, amely a múlt sebeiből kiindulva a jövő felelősségére hív."
+  - title: "Lesz online közvetítés?"
+    description: "Nem lesz online vagy hibrid részvételi lehetőség. Az alkalmon való személyes jelenlét a lényeg."
+  - title: "Lesz gyerekfelügyelet?"
+    description: "Igen, 2 éves kortól. A regisztráció során jelezd, ha igényled a gyerekszolgálatot, és e-mailben kapsz értesítést a részletekről."
 ---

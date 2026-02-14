@@ -1,46 +1,46 @@
 ---
-# Testimonials
+# Visszajelzések
 list:
-  - name: "Michael Brown"
-    designation: "IT Director at HealthCare"
+  - name: "Parlamenti imaalkalom"
+    designation: "Főrendiházi terem, 2023–2025"
     avatar: "/images/avatar/person-1.png"
     content: |
-      **Implementing this data security solution has been a game-changer for our company.**
+      **A Parlament Főrendiházi termében háromszor tartottunk közbenjáró alkalmakat.**
 
-      The real-time threat detection and automated response features have significantly reduced our risk exposure. We now feel more confident than ever about our data security posture.
-  - name: "Jane Smith"
-    designation: "CTO at Tech Innovators Inc."
+      Összesen 910-en vettünk részt ezeken az alkalmakon, ahol felekezettől függetlenül együtt imádkoztunk a nemzetért. Ezek a találkozók megalapozták a közös összefogást.
+  - name: "BOK Csarnok, 2025"
+    designation: "Budapest, 2025. október 23."
     avatar: "/images/avatar/person-2.png"
     content: |
-      **The granular access controls and detailed user activity tracking have given us unparalleled visibility.**
+      **Több mint 1700 ember gyűlt össze közös imára a nemzetért.**
 
-      The granular access controls and detailed user activity tracking have given us unparalleled visibility into our system's security. This platform has helped us maintain our data.
-  - name: "Marvin Brown"
-    designation: "COO at Financial Services Group"
+      Ez az alkalom nem demonstráció volt, hanem egy jelzés: létezik egy vágy az egységre. Létezik egy csendes, de erős törekvés arra, hogy a történelmi sebeink fölött összefogás szülessen.
+  - name: "Lelkészműhelyek"
+    designation: "Országszerte, 2023–2026"
     avatar: "/images/avatar/person-3.png"
     content: |
-      **The comprehensive risk analysis and impact visualization tools are exceptional.**
+      **Újra megtanultunk együtt gondolkodni és együtt imádkozni.**
 
-      The comprehensive risk analysis and impact visualization tools are exceptional. We can quickly identify and mitigate potential threats before they become serious issues.
-  - name: "Smith Lee"
-    designation: "IT Director at HealthCare"
+      A rendszeresen szervezett Lelkészműhelyek és a több megyét érintő körutak lehetővé tették, hogy kapcsolatokat építsünk lelkészek, pásztorok, missziók és gyülekezetek között.
+  - name: "Vármegyei találkozók"
+    designation: "Több vármegye, 2025–2026"
     avatar: "/images/avatar/person-4.png"
     content: |
-      **Implementing this data security solution has been a game-changer for our company.**
+      **A mozgósítás tovább erősödött az elmúlt hónapokban.**
 
-      The real-time threat detection and automated response features have significantly reduced our risk exposure. We now feel more confident than ever about our data security posture.
-  - name: "Richard Lee"
-    designation: "CTO at Tech Innovators Inc."
+      Vármegyei találkozók, stratégiai egyeztetések, szakmai és lelki fórumok készítik elő a következő mérföldköveket: az április 4-i Nemzeti Imanapot és az augusztus 29-i mohácsi megemlékezést.
+  - name: "Áprilisi imanap"
+    designation: "Papp László Sportaréna, 2026. ápr. 4."
     avatar: "/images/avatar/person-5.png"
     content: |
-      **The granular access controls and detailed user activity tracking have given us unparalleled visibility.**
+      **Húsvét szombatja – a győzelem küszöbe.**
 
-      The granular access controls and detailed user activity tracking have given us unparalleled visibility into our system's security. This platform has helped us maintain our data.
-  - name: "David Thompson"
-    designation: "COO at Financial Services Group"
+      A Papp László Sportarénában több ezer ember együtt imádkozik a nemzetért. Felekezetek együtt állnak az Úr előtt, és a múlt sebeire lelki válasz születik.
+  - name: "Mohács 500"
+    designation: "Mohács, 2026. augusztus 29."
     avatar: "/images/avatar/person-6.png"
     content: |
-      **The comprehensive risk analysis and impact visualization tools are exceptional.**
+      **Az Ákor völgyét a reménység kapujává teszem.**
 
-      The comprehensive risk analysis and impact visualization tools are exceptional. We can quickly identify and mitigate potential threats before they become serious issues.
+      Ötszáz évvel a csata után nem gyászolni, hanem emlékezni és jövőt építeni. Mohács a reménység kapuja lesz, ahol az évszázados átokból kijőve új nap virrad a magyar nemzet egén.
 ---

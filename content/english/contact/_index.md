@@ -1,26 +1,26 @@
 ---
-meta_title: "Contact"
-title: "Contact"
-description: "Get in touch with us for support and inquiries. We are here to help!"
+meta_title: "Kapcsolat"
+title: "Kapcsolat"
+description: "Lépj kapcsolatba velünk! Kérdéseidre szívesen válaszolunk."
 draft: false
 
 hero:
-  subtitle: "Contact Us"
-  title: "Get in Touch. <br> Contact Information and Support."
-  description: "Your Trusted Partner in Data Protection with Cutting-Edge <br> Solutions for Comprehensive Data Security."
+  subtitle: "Kapcsolat"
+  title: "Írj nekünk! <br> Elérhetőségeink és támogatás."
+  description: "A Mohács 500 mozgalom szervezőit az alábbi elérhetőségeken <br> lehet megkeresni kérdésekkel és visszajelzésekkel."
   image: "/images/logo-icon.png"
   list:
-    - icon: "fa-solid fa-clock-rotate-left"
-      title: "24/7 Customer Support"
-      description: "Our dedicated support team is available 24/7 to assist you with any issues or questions you may have."
-    - icon: "fa-regular fa-snowflake"
-      title: "Self-help resources"
-      description: "Access our extensive knowledge base for self-help resources, including step-by-step guides."
+    - icon: "fa-solid fa-envelope"
+      title: "E-mail"
+      description: "Írj nekünk bármilyen kérdéssel az alabastromprojekt@gmail.com címre, és igyekszünk mihamarabb válaszolni."
+    - icon: "fa-solid fa-globe"
+      title: "Weboldal"
+      description: "További információk és anyagok elérhetők a www.alabastromprojekt.hu oldalon."
 
 
 # Faq
 accordion:
-  title: "Frequently Asked Questions"
-  subtitle: "FAQ"
-  description: "Your Trusted Partner in Data Protection with Cutting-Edge <br> Solutions for Comprehensive Data Security."
+  title: "Gyakran Ismételt Kérdések"
+  subtitle: "GYIK"
+  description: "A leggyakrabban feltett kérdésekre adott válaszaink <br> a 2026. április 4-i Nemzeti Imanappal kapcsolatban."
 ---

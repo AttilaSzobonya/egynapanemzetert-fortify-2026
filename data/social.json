@@ -6,19 +6,14 @@
       "link": "https://www.facebook.com/"
     },
     {
-      "name": "twitter",
-      "icon": "fab fa-twitter",
-      "link": "https://twitter.com/"
+      "name": "weboldal",
+      "icon": "fas fa-globe",
+      "link": "https://www.alabastromprojekt.hu"
     },
     {
-      "name": "github",
-      "icon": "fab fa-github",
-      "link": "https://www.github.com/"
-    },
-    {
-      "name": "linkedin",
-      "icon": "fab fa-linkedin",
-      "link": "https://www.linkedin.com/"
+      "name": "email",
+      "icon": "fas fa-envelope",
+      "link": "mailto:alabastromprojekt@gmail.com"
     }
   ]
 }

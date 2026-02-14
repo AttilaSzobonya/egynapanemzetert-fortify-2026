@@ -13,12 +13,12 @@ banner:
   button:
     get_started:
       enable: true
-      label: "További információ"
-      link: "contact"
+      label: "Regisztráció"
+      link: "aprilis-4"
     learn_more:
       enable: true
-      label: "Tudj meg többet"
-      link: "about"
+      label: "A Látásról"
+      link: "latas"
 
 # Countdown
 countdown:
