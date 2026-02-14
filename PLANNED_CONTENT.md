@@ -189,3 +189,78 @@ alabastromprojekt@gmail.com
 29. Hol érhetők el a szervezők elérhetőségei?
 
 www.alabastromprojekt.hu
+
+
+## 2026. április 4.
+
+
+
+A Mohács 500 nemzeti megemlékezési és lelki megújulási folyamat részeként 2026. április 4-én Nemzeti Imanapot tartunk a budapesti Papp László Sportarénában. Ez az alkalom arra hívja a nemzetet, hogy közösen álljunk Isten elé történelmünk teljes valóságával: harcainkkal és győzelmeinkkel, küzdelmeinkkel és kudarcainkkal együtt.
+
+
+
+A magyar történelem évszázadai során számos seb és teher rakódott nemzetünkre. Árulás, becsapás, megfosztás, kiszolgáltatottság és magára hagyás élményei mély nyomot hagytak közösségi emlékezetünkben és identitásunkban. Évszázadok során nagyhatalmak igyekeztek megtörni a magyar nép egységét, erejét és hatékonyságát, akár külső megfosztással, akár belső ellentétek gerjesztésével, sőt, saját történelmünk írásos meghamisításával, hogy generációk sora téves történelmet tanuljon meg és egy erős identitású, kultúrájú nép helyett megtört, megalázott és megfosztott népet tudjon magáénak. A Nemzeti Imanap ezeknek a történelmi és lelki terheknek az Isten elé vitelét jelenti: közös imádságot a múlt negatív hatásainak megtöréséért és a nemzet lelki gyógyulásáért.
+
+
+
+Ugyanakkor történelmünk nemcsak veszteségeket hordoz. A magyar nép életében jelentős alkotások, találmányok, felfedezések és kiemelkedő teljesítmények születtek a tudomány, a gazdaság, a kultúra és a sport területén, de volt sok győztes harcunk, sikeres kezdeményezésünk. Hálával emlékezünk ezekre az értékekre, és azért imádkozunk, hogy nemzetünk ismét kreatív, kezdeményező, építő és jövőt formáló közösséggé váljon.
+
+
+
+A Nemzeti Imanap nem politikai és nem is egy felekezeti esemény. Nem a megosztás, hanem az egység alkalma. Célja, hogy különböző közösségekből és háttérből érkező emberek együtt járuljanak Isten elé Magyarországért. Hisszük, hogy a sok negatív tapasztalat és kilátástalanság nyomán kialakult reményvesztett nemzeti lelkiállapot megváltozhat, és a magyar nép ismét erős, kitartó és jövőt építő közösséggé formálódhat.
+
+
+
+Az alkalom húsvét szombatjára esik, arra a napra, amely a kereszt áldozata és a feltámadás reménye közötti felkészülés ideje. Ebben a lelki értelemben is jelentős időpontban gyűlünk össze: megállva, imádkozva és dicsőítve várva Isten megújító munkáját. Hitünket együtt vallva kijelentjük, hogy Jézus Krisztus az egyedüli Úr, benne bízunk, Őt követjük, és a Szent Szellem erejével kérjük Isten megújulást hozó beavatkozását nemzetünk életében. A 2026. április 4-i budapesti Nemzeti Imanap egyben lelki előkészítése a Mohácson, augusztus 29-én tartandó nemzeti imanapnak is, amely a Mohács 500 emlékév kiemelt csúcspontja lesz.
+
+
+
+Nemzeti Imanap – Papp László Sportaréna
+
+2026. április 4. - tervezett program
+
+
+
+12.45 - 13.00 Dicsőítésben történő érkezés
+
+13.00 - 14.00 Imádat/ Ima Izraelért, az öt földrészért, szomszédos országokért
+
+
+
+14.00 - 16.00 Ima a nemzetünk történelme szerint
+
+16.00 - 17.40 Evangélizáció/ima gyógyulásokért
+
+
+
+17.40 - 19.00 Hálaadás, örömünnep - Dávid sátora alkalom
+
+
+
+Jeremiás 29,11
+
+„Mert én tudom az én gondolataimat, amelyeket felőletek gondolok – így szól az Úr – békességnek és nem veszedelemnek gondolata, hogy jövőt és reménységet adjak nektek.”
+
+
+
+Hóseás 2,15
+
+„És az Ákór völgyét reménység kapujává teszem.”
+
+
+
+Ézsaiás 60,1
+
+„Kelj fel, tündökölj, mert eljött világosságod, és az Úr dicsősége rajtad feltámadt.”
+
+
+
+Jóel 2,25
+
+„Kárpótollak benneteket azokért az évekért, amelyeket megevett a sáska.”
+
+
+
+Zsoltárok 33,12
+
+„Boldog az a nemzet, amelynek Istene az Úr.”
