@@ -1,5 +1,11 @@
 /* Add your own custom styles here */
 
+@media (max-width: 1023px) {
+	.banner-title br {
+		display: block;
+	}
+}
+
 .countdown-card {
 	position: relative;
 	overflow: hidden;

@@ -5,7 +5,7 @@
       <div class="container">
         <div class="row justify-center">
           <div class="mb-8 text-center md:col-9 lg:col-11">
-            <h1 class="mb-4 text-h3 lg:text-h1" data-aos="fade-up-sm">
+            <h1 class="banner-title mb-4 text-h3 lg:text-h1" data-aos="fade-up-sm">
               {{ .title | markdownify }}
             </h1>
             <p class="mb-8 text-lg " data-aos="fade-up-sm">
@@ -247,7 +247,7 @@
             <p class="mb-2 font-medium text-tertiary">
               {{ .subtitle | markdownify }}
             </p>
-            <h2 class="mb-6">{{ .title | markdownify }}</h2>
+            <h2 class="banner-title mb-6">{{ .title | markdownify }}</h2>
             <p class="text-lg ">{{ .description | markdownify }}</p>
           </div>
         {{ end }}

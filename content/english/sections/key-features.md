@@ -1,5 +1,5 @@
 ---
-title: "Ismerd meg a Mohács&nbsp;500 <br /> legfontosabb oldalait"
+title: "Ismerd meg a<wbr> Mohács&nbsp;500 <br /> legfontosabb oldalait"
 subtitle: "Fontos oldalak"
 description: "A mozgalom megismeréséhez és a részvételhez <br /> az alábbi oldalakon találsz minden fontos információt."
 features:
