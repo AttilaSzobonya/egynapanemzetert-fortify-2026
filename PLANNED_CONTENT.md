@@ -41,8 +41,9 @@ A Szent Szellem szólt a szívemhez, hogy hozzuk össze a magyar eklézsiát, ke
 Mohácsnál fegyveres harc volt, most ideológiai-szellemi háborút kell vívnunk.
 Az 1526-os vereség évszázadokra meghatározta a sorsunkat. Az ország három részre szakadt, iszonyatos pusztítást szenvedtünk el. Állandó kesergő, vesztes-identitású, megtört nép lettünk.
 Teljes szívvel hisszük, hogy ez nem a végleges sorsunk, az 500 évforduló egy fordulatot hoz nemzetünk életében.  
-Izraelben volt egy völgy, az Ákor völgye, ahol vereséget szenvedtek, nem szívesen emlékeztek rá,  a nemzeti átok, gyász helyének tartották. 
-A mi “Ákor völgyünk” Mohács. Isten szólt prófétáján keresztül, hogy: “Az Ákor völgyét a reménység kapujává teszem.” 
+Izraelben volt egy völgy, az Ákor völgye, ahol vereséget szenvedtek, nem szívesen emlékeztek rá, a nemzeti átok, gyász helyének tartották. Itt történt Ákán bűne és büntetése (Józsué 7), amely miatt Izráel vereséget szenvedett. A név jelentése: nyomorúság, zavar, baj.
+A mi “Ákor völgyünk” Mohács. Isten szólt prófétáján keresztül, hogy: “És adom neki szőlőit onnét, és az Ákór völgyét a reménység kapujává teszem; és ott énekel majd, mint ifjúsága napjaiban, és mint Egyiptom földjéről való feljövetele napján.” (Hóseás 2,15 – Károli)
+Isten ígérete: a bukás helyét reménység kapujává fordítja. Ahol ítélet volt, ott új kezdet nyílik. A vereség helye fordulóponttá válik.
 Ebben hiszünk mi is, ezért hívunk mindenkit augusztus 29-ére Mohácsra, emeljük fel egy szívvel a szavunkat a mi Urunkhoz Jézushoz, hadd legyen számunkra Mohács a REMÉNYSÉG KAPUJA, hogy  az évszázados átokból kijöve egy új nap vírradjon fel a magyar nemzet egén!
 
 # 2026.04.04 Nemzeti Imanap – Gyakran Ismételt Kérdések (GYIK)

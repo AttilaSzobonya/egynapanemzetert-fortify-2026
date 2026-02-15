@@ -5,10 +5,10 @@ description: "Azok az igék, amelyek a Mohács&nbsp;500 mozgalom szellemi alapja
 
 # Testimonials
 testimonials:
-  - name: "Hóseás 2:17"
+  - name: "Hóseás 2,15"
     designation: "Prófécia"
     avatar: "/images/avatar-sm.png"
-    content: "Az Ákor völgyét a reménység kapujává teszem. Ott úgy énekel majd, mint ifjúsága napjaiban."
+    content: "Az Ákór völgyét a reménység kapujává teszem, és ott énekel majd, mint ifjúsága napjaiban. (Hóseás 2,15 – Károli) Az ítélet helye fordulóponttá válik."
 
   - name: "Jeremiás 29:11"
     designation: "Ígéret"

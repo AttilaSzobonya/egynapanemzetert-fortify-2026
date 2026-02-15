@@ -28,7 +28,7 @@ core_values:
       description: "Felekezeteken és szervezeti határokon átívelő összefogás, ahol újra megtanulunk együtt gondolkodni és együtt imádkozni."
     - icon: "fa-solid fa-dove"
       title: "Reménység"
-      description: "Az Ákor völgyét a reménység kapujává tesszük. Az évszázados átokból kijőve új nap virrad a magyar nemzet egén."
+      description: "Az Ákor völgyét a reménység kapujává tesszük. (Hóseás 2,15 – Károli) Az évszázados átokból kijőve új nap virrad a magyar nemzet egén."
 
   stats:
     - label: "Résztvevő eddig összesen"

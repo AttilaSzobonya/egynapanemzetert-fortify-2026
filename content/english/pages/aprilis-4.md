@@ -66,9 +66,9 @@ Nemzeti Imanap – Papp László Sportaréna
 >
 > „Mert én tudom az én gondolataimat, amelyeket felőletek gondolok – így szól az Úr – békességnek és nem veszedelemnek gondolata, hogy jövőt és reménységet adjak nektek.”
 
-> **Hóseás 2,15**
+> **Hóseás 2,15 – Károli**
 >
-> „És az Ákór völgyét reménység kapujává teszem.”
+> „És adom neki szőlőit onnét, és az Ákór völgyét a reménység kapujává teszem; és ott énekel majd, mint ifjúsága napjaiban, és mint Egyiptom földjéről való feljövetele napján.”
 
 > **Ézsaiás 60,1**
 >

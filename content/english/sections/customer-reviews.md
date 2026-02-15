@@ -40,7 +40,7 @@ list:
     designation: "Mohács, 2026. augusztus 29."
     avatar: "/images/avatar/person-6.png"
     content: |
-      **Az Ákor völgyét a reménység kapujává teszem.**
+      **„És adom neki szőlőit onnét, és az Ákór völgyét a reménység kapujává teszem; és ott énekel majd, mint ifjúsága napjaiban, és mint Egyiptom földjéről való feljövetele napján.” (Hóseás 2,15 – Károli)**
 
-      Ötszáz évvel a csata után nem gyászolni, hanem emlékezni és jövőt építeni. Mohács a reménység kapuja lesz, ahol az évszázados átokból kijőve új nap virrad a magyar nemzet egén.
+      Az Ákór völgye a baj, ítélet és vereség helye volt, mégis Isten ígérete szerint fordulóponttá válik. Ötszáz évvel a csata után nem gyászolni, hanem emlékezni és jövőt építeni. Mohács a reménység kapuja lesz, ahol az évszázados átokból kijőve új nap virrad a magyar nemzet egén.
 ---
