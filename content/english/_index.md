@@ -5,11 +5,11 @@ banner:
   description: "Ötszáz évvel a csata után nem gyászolni szeretnénk, hanem emlékezni és jövőt építeni. <br />
   A múlt sebeiből kiindulva a jövő felelősségére hívunk minden magyar testvért és keresztény lelki életet."
   image:
-    main: "/images/banner.png"
+    main: "/images/banner.webp"
     left: "/images/banner-left.png"
     middle: "/images/banner-middle.png"
     right: "/images/banner-right.png"
-    bg_image: "/images/bg-pattern.png"
+    bg_image: "/images/bg-pattern.webp"
   button:
     get_started:
       enable: true
