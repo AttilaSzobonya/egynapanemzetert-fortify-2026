@@ -10,7 +10,7 @@ features:
     description: "Húsvét szombatján, 2026. április 4-én több ezer ember együtt imádkozik a nemzetért. Tudj meg mindent az eseményről."
     image: "/images/key-features/feature-2.png"
 main_feature:
-  title: "GYIK – Gyakran Ismételt Kérdések"
+  title: "GYIK – Gyakran Ismételt Kérdések" 
   description: "Regisztráció, megközelítés, program, gyerekfelügyelet és minden egyéb gyakorlati kérdés egy helyen."
   image: "/images/key-features/feature-3.png"
   button:

@@ -6,8 +6,7 @@ basic_plan:
   currency: ""
   monthly_price: ""
   yearly_price: ""
-  billed_monthly: "Ingyenes részvétel"
-  billed_yearly: "Regisztráció kötelező"
+  details: "Ingyenes részvétel - Regisztráció kötelező"
   list:
     - item: "Közös ima a nemzetért"
     - item: "Felekezetközi egység"
@@ -26,8 +25,7 @@ premium_plan:
   currency: ""
   monthly_price: ""
   yearly_price: ""
-  billed_monthly: "Mohács, helyszínen"
-  billed_yearly: "Részletek hamarosan"
+  details: "Helyszín: Mohács - Részletek hamarosan"
   list:
     - item: "500. évforduló megemlékezés"
     - item: "Nemzeti összefogás"

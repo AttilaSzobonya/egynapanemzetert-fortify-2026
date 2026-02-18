@@ -26,12 +26,12 @@ custom_script = ""
 # copyright
 copyright = "Copyright © 2026 Mohács 500. Minden jog fenntartva."
 #footer description
-footer_description = "Mohács 500: Az ötszáz éves tragédiá­ból a reménység kapuját nyitjuk meg. Közös imára hívunk fel minden magyar és minden keresztény lelkiéletet."
+footer_description = "Mohács 500: Az ötszáz éves tragédiából a reménység kapuját nyitjuk meg. Közös imára hívunk fel minden magyar és minden keresztény lelkiéletet."
 
 
 # background pattern
 [header]
-bg_image = "/images/header-bg.jpg"
+bg_image = "/images/header-bg.webp"
 
 # Preloader
 # preloader module: https://github.com/gethugothemes/hugo-modules/tree/master/components/preloader
@@ -60,7 +60,7 @@ show_categories = true
 # seo meta data for OpenGraph / Twitter Card
 # seo module: https://github.com/gethugothemes/hugo-modules/tree/master/seo-tools/basic-seo
 [metadata]
-keywords = ["Mohács 500", "magyarország", "imádság", "nemzeti megújulás", "lelki egység"]
+keywords = ["Mohács 500", "magyarország", "imádság", "nemzeti megújulás", "lelki egység", "szellemi egység"]
 description = "Mohács 500: A magyar eklézsia közös imamozgalma a nemzeti megújulásért és lelki szabadságért"
 author = "Mohács 500"
 image = "images/og-image.png"
@@ -80,8 +80,8 @@ mastodon = "" # Your verification code
 [cookies]
 enable = false
 expire_days = 60
-content = "This site uses cookies. By continuing to use this website, you agree to their use."
-button = "I Accept"
+content = "Ez az oldal sütiket használ. Az oldal használatával hozzájárulsz azok alkalmazásához."
+button = "Elfogadom"
 
 # diagrams
 # [mermaid]

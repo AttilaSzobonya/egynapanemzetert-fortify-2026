@@ -10,8 +10,12 @@
       <div>{{ .content | markdownify }}</div>
     </div>
     <div class="flex flex-col gap-4 sm:flex-row">
-      <div class="flex h-16 w-16 items-center overflow-hidden rounded-full">
-        {{ partial "image" (dict "Src" .avatar "Alt" "avatar" "Class" `h-full w-full object-cover`) }}
+      <div class="flex h-16 w-16 items-center justify-center overflow-hidden rounded-full bg-primary/10 text-2xl text-primary">
+        {{ with .icon }}
+          <i class="{{ . }}" aria-hidden="true"></i>
+        {{ else }}
+          {{ partial "image" (dict "Src" .avatar "Alt" "avatar" "Class" `h-full w-full object-cover`) }}
+        {{ end }}
       </div>
       <div>
         <strong class="mb-2 text-lg  font-medium"
