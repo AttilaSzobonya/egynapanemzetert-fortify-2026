@@ -68,27 +68,6 @@
       </div>
 
       <div class="sm:col-7 md:col-6 lg:col-4">
-        <h3 class="mb-4 text-xl font-normal text-text-dark">
-          {{ site.Params.quote_form.title | markdownify }}
-        </h3>
-        <p class="mb-6">
-          {{ site.Params.quote_form.description | markdownify }}
-        </p>
-        <form
-          action="{{ site.Params.quote_form.action | safeURL }}"
-          method="post"
-          class="flex justify-between rounded-full bg-white px-3 py-2">
-          <input
-            type="email"
-            placeholder="{{ site.Params.quote_form.placeholder }}"
-            class="form-input w-full rounded-full border-none! py-2! pl-2! placeholder:opacity-100"
-            required="" />
-          <button
-            class="rounded-full bg-secondary px-4 py-1 font-medium transition hover:opacity-80"
-            type="submit">
-            {{ site.Params.quote_form.submit_button_label | markdownify }}
-          </button>
-        </form>
         <div class="copyright mt-5 lg:mt-14">
           {{ site.Params.copyright | markdownify }}
         </div>
