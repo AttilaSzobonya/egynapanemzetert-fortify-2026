@@ -195,7 +195,9 @@
   const navDropdown = document.querySelector(".nav-dropdown");
   const navDropdownIcon = document.querySelector(".nav-dropdown-icon");
 
-  navDropdown.addEventListener("click", () => {
-    navDropdownIcon.classList.toggle("rotate-180");
-  });
+  if (navDropdown && navDropdownIcon) {
+    navDropdown.addEventListener("click", () => {
+      navDropdownIcon.classList.toggle("rotate-180");
+    });
+  }
 })();

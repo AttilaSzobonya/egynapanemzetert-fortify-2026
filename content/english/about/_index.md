@@ -1,5 +1,5 @@
 ---
-meta_title: "Rólunk – Mohács&nbsp;500"
+meta_title: "Rólunk – Mohács 500"
 title: "A Mohács&nbsp;500 mozgalom: közös emlékezetből közös jövő"
 subtitle: "Rólunk"
 description: "Nemzeti szintű, felekezeteken és szervezeti határokon átívelő <br> lelki és közösségi mozgalom a jövő felelősségéért."

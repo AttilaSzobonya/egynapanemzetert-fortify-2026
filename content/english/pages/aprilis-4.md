@@ -6,6 +6,8 @@ description: "2026. április 4-én, Húsvét szombatján a Papp László Budapes
 
 ## Jelentős esemény a fordulathoz
 
+<img src="/images/aprilis-4/papp-laszlo-sportarena.webp" alt="Papp László Budapest Sportaréna" class="md:float-left md:mr-6 mb-4 w-full md:w-1/2 lg:w-5/12 rounded-2xl shadow-lg" loading="lazy">
+
 A Mohács 500 nemzeti megemlékezési és lelki megújulási folyamat részeként 2026. április 4-én Nemzeti Imanapot tartunk a budapesti Papp László Sportarénában. Ez az alkalom arra hívja a nemzetet, hogy közösen álljunk Isten elé történelmünk teljes valóságával: harcainkkal és győzelmeinkkel, küzdelmeinkkel és kudarcainkkal együtt.
 
 Húsvét szombat a keresztény hit egyik legmélyebb pillanata. A kereszt már mögöttünk van. A feltámadás még előttünk. Látszólag vereség – valójában a győzelem küszöbe. **Ebben a szellemi időben gyűlünk össze a Papp László Budapest Sportarénában.**
@@ -19,6 +21,8 @@ Ugyanakkor történelmünk nemcsak veszteségeket hordoz. A magyar nép életéb
 A Nemzeti Imanap nem politikai és nem is egy felekezeti esemény. Nem a megosztás, hanem az egység alkalma. Célja, hogy különböző közösségekből és háttérből érkező emberek együtt járuljanak Isten elé Magyarországért. Hisszük, hogy a sok negatív tapasztalat és kilátástalanság nyomán kialakult reményvesztett nemzeti lelkiállapot megváltozhat, és a magyar nép ismét erős, kitartó és jövőt építő közösséggé formálódhat.
 
 Az alkalom húsvét szombatjára esik, arra a napra, amely a kereszt áldozata és a feltámadás reménye közötti felkészülés ideje. Ebben a lelki értelemben is jelentős időpontban gyűlünk össze: megállva, imádkozva és dicsőítve várva Isten megújító munkáját. Hitünket együtt vallva kijelentjük, hogy Jézus Krisztus az egyedüli Úr, benne bízunk, Őt követjük, és a Szent Szellem erejével kérjük Isten megújulást hozó beavatkozását nemzetünk életében. A 2026. április 4-i budapesti Nemzeti Imanap egyben lelki előkészítése a Mohácson, augusztus 29-én tartandó nemzeti imanapnak is, amely a Mohács 500 emlékév kiemelt csúcspontja lesz.
+
+<div class="clear-both"></div>
 
 ---
 
@@ -62,25 +66,25 @@ Nemzeti Imanap – Papp László Sportaréna
 
 ## Igék az alkalomhoz
 
-> **Jeremiás 29,11**
->
 > „Mert én tudom az én gondolataimat, amelyeket felőletek gondolok – így szól az Úr – békességnek és nem veszedelemnek gondolata, hogy jövőt és reménységet adjak nektek.”
-
-> **Hóseás 2,15 – Károli**
 >
+> **Jeremiás 29,11**
+
 > „És adom neki szőlőit onnét, és az Ákór völgyét a reménység kapujává teszem; és ott énekel majd, mint ifjúsága napjaiban, és mint Egyiptom földjéről való feljövetele napján.”
-
-> **Ézsaiás 60,1**
 >
+> **Hóseás 2,15 – Károli**
+
 > „Kelj fel, tündökölj, mert eljött világosságod, és az Úr dicsősége rajtad feltámadt.”
-
-> **Jóel 2,25**
 >
+> **Ézsaiás 60,1**
+
 > „Kárpótollak benneteket azokért az évekért, amelyeket megevett a sáska.”
-
-> **Zsoltárok 33,12**
 >
+> **Jóel 2,25**
+
 > „Boldog az a nemzet, amelynek Istene az Úr.”
+>
+> **Zsoltárok 33,12**
 
 ---
 

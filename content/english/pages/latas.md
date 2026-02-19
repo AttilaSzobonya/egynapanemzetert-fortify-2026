@@ -1,6 +1,6 @@
 ---
 title: "Látás – Mohács&nbsp;500"
-meta_title: "Látás – Mohács&nbsp;500 | Közös emlékezetből közös jövő"
+meta_title: "Látás – Mohács 500 | Közös emlékezetből közös jövő"
 description: "A Mohács&nbsp;500 nem politikai kezdeményezés és nem pusztán történelmi megemlékezés, hanem egy nemzeti szintű lelki és közösségi mozgalom."
 ---
 
@@ -69,8 +69,9 @@ Húsvét szombatján, azon a napon, amikor a világ legnagyobb fordulata követk
 
 A Mohács&nbsp;500 egy nyitott kezdeményezés. Egy közös ügy.
 
-**2026. április 4. – Budapest.**
-**2026. augusztus 29. – Mohács.**
+**2026. április 4. – Budapest**
+<br />
+**2026. augusztus 29. – Mohács**
 
 A Mohács&nbsp;500 látás nem csak egy évforduló. Ez egy lehetőség. Egy fordulópont. Egy közös döntés a jövőről.
 
