@@ -12,14 +12,19 @@ url = "/aprilis-4/"
 weight = 2
 
 [[main]]
+name = "Regisztráció"
+url = "https://docs.google.com/forms/d/e/1FAIpQLScaCd6sXpP4R36tOjjfeK0T0NNJTyXmtqdmPfrf5B6KAHr06A/viewform"
+weight = 3
+
+[[main]]
 name = "GYIK"
 url = "/gyik/"
-weight = 3
+weight = 4
 
 [[main]]
 name = "Kapcsolat"
 pageRef = "/contact"
-weight = 4
+weight = 5
 
 
 
@@ -35,9 +40,14 @@ url = "/aprilis-4"
 weight = 2
 
 [[footer_01]]
+name = "Regisztráció"
+url = "https://docs.google.com/forms/d/e/1FAIpQLScaCd6sXpP4R36tOjjfeK0T0NNJTyXmtqdmPfrf5B6KAHr06A/viewform"
+weight = 3
+
+[[footer_01]]
 name = "GYIK"
 url = "/gyik"
-weight = 3
+weight = 4
 
 [[footer_02]]
 name = "Kapcsolat"

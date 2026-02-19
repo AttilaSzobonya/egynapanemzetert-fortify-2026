@@ -111,7 +111,22 @@ Nemzeti Imanap – Papp László Sportaréna
 - **Határidő:** 2026. április 1.
 - Aki nem regisztrál, nem fog tudni belépni!
 
+[Regisztráció megnyitása →](https://docs.google.com/forms/d/e/1FAIpQLScaCd6sXpP4R36tOjjfeK0T0NNJTyXmtqdmPfrf5B6KAHr06A/viewform)
+
 </div>
+</div>
+
+<div class="mt-8">
+	<iframe
+		src="https://docs.google.com/forms/d/e/1FAIpQLScaCd6sXpP4R36tOjjfeK0T0NNJTyXmtqdmPfrf5B6KAHr06A/viewform?embedded=true"
+		width="100%"
+		style="height: clamp(1600px, 220vh, 2800px);"
+		frameborder="0"
+		marginheight="0"
+		marginwidth="0"
+		loading="lazy"
+		title="Nemzeti Imanap regisztráció"
+	>Betöltés...</iframe>
 </div>
 
 ---
