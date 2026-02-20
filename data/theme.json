@@ -2,18 +2,18 @@
   "colors": {
     "default": {
       "theme_color": {
-        "primary": "#1d1d1d",
-        "secondary": "#dcf986",
-        "tertiary": "#5ea977",
-        "quaternary": "#f2f2f2",
+        "primary": "#472d30",
+        "secondary": "#c9cba3",
+        "tertiary": "#e26d5c",
+        "quaternary": "#ffe1a8",
         "body": "#fff",
-        "border": "#e0e0e0",
+        "border": "#c9cba3",
         "light": "#fafafa",
-        "dark": "#1d1d1d"
+        "dark": "#472d30"
       },
       "text_color": {
-        "text": "#464646",
-        "text-dark": "#1d1d1d",
+        "text": "#472d30",
+        "text-dark": "#472d30",
         "text-light": "#f6f6f6"
       }
     }
