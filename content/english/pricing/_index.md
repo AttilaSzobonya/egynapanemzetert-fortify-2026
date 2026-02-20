@@ -2,7 +2,7 @@
 meta_title: "Események"
 title: "Eseményeink – Csatlakozz a közös imához"
 subtitle: "Események"
-description: "A Mohács&nbsp;500 mozgalom két sorsfordító eseménye: <br /> április 4. Budapesten és augusztus 29. Mohácson."
+description: "A Mohács&nbsp;500 mozgalom két sorsfordító eseménye: <br /> április&nbsp;4. Budapesten és augusztus&nbsp;29. Mohácson."
 
 # Customers Review
 customer_reviews:

@@ -1,14 +1,14 @@
 ---
 title: "2026. április 4. – Nemzeti Imanap"
-meta_title: "Április 4. Nemzeti Imanap | Mohács&nbsp;500"
-description: "2026. április 4-én, Húsvét szombatján a Papp László Budapest Sportarénában gyűlünk össze közös imára a nemzetért."
+meta_title: "Április&nbsp;4. Nemzeti Imanap | Mohács&nbsp;500"
+description: "2026.&nbsp;április&nbsp;4-én, Húsvét szombatján a Papp László Budapest Sportarénában gyűlünk össze közös imára a nemzetért."
 ---
 
 ## Jelentős esemény a fordulathoz
 
 <img src="/images/aprilis-4/papp-laszlo-sportarena.webp" alt="Papp László Budapest Sportaréna" class="md:float-left md:mr-6 mb-4 w-full md:w-1/2 lg:w-5/12 rounded-2xl shadow-lg" loading="lazy">
 
-A Mohács 500 nemzeti megemlékezési és lelki megújulási folyamat részeként 2026. április 4-én Nemzeti Imanapot tartunk a budapesti Papp László Sportarénában. Ez az alkalom arra hívja a nemzetet, hogy közösen álljunk Isten elé történelmünk teljes valóságával: harcainkkal és győzelmeinkkel, küzdelmeinkkel és kudarcainkkal együtt.
+A Mohács 500 nemzeti megemlékezési és lelki megújulási folyamat részeként 2026.&nbsp;április&nbsp;4-én Nemzeti Imanapot tartunk a budapesti Papp László Sportarénában. Ez az alkalom arra hívja a nemzetet, hogy közösen álljunk Isten elé történelmünk teljes valóságával: harcainkkal és győzelmeinkkel, küzdelmeinkkel és kudarcainkkal együtt.
 
 Húsvét szombat a keresztény hit egyik legmélyebb pillanata. A kereszt már mögöttünk van. A feltámadás még előttünk. Látszólag vereség – valójában a győzelem küszöbe. **Ebben a szellemi időben gyűlünk össze a Papp László Budapest Sportarénában.**
 
@@ -20,29 +20,29 @@ Ugyanakkor történelmünk nemcsak veszteségeket hordoz. A magyar nép életéb
 
 A Nemzeti Imanap nem politikai és nem is egy felekezeti esemény. Nem a megosztás, hanem az egység alkalma. Célja, hogy különböző közösségekből és háttérből érkező emberek együtt járuljanak Isten elé Magyarországért. Hisszük, hogy a sok negatív tapasztalat és kilátástalanság nyomán kialakult reményvesztett nemzeti lelkiállapot megváltozhat, és a magyar nép ismét erős, kitartó és jövőt építő közösséggé formálódhat.
 
-Az alkalom húsvét szombatjára esik, arra a napra, amely a kereszt áldozata és a feltámadás reménye közötti felkészülés ideje. Ebben a lelki értelemben is jelentős időpontban gyűlünk össze: megállva, imádkozva és dicsőítve várva Isten megújító munkáját. Hitünket együtt vallva kijelentjük, hogy Jézus Krisztus az egyedüli Úr, benne bízunk, Őt követjük, és a Szent Szellem erejével kérjük Isten megújulást hozó beavatkozását nemzetünk életében. A 2026. április 4-i budapesti Nemzeti Imanap egyben lelki előkészítése a Mohácson, augusztus 29-én tartandó nemzeti imanapnak is, amely a Mohács 500 emlékév kiemelt csúcspontja lesz.
+Az alkalom húsvét szombatjára esik, arra a napra, amely a kereszt áldozata és a feltámadás reménye közötti felkészülés ideje. Ebben a lelki értelemben is jelentős időpontban gyűlünk össze: megállva, imádkozva és dicsőítve várva Isten megújító munkáját. Hitünket együtt vallva kijelentjük, hogy Jézus Krisztus az egyetlení Ur, benne bízunk, Őt követjük, és a Szent Szellem erejével kérjük Isten megújulást hozó beavatkozását nemzetünk életében. A 2026.&nbsp;április&nbsp;4-i budapesti Nemzeti Imanap egyben lelki előkészítése a Mohácson, augusztus&nbsp;29-én tartandó nemzeti imanapnak is, amely a Mohács 500 emlékév kiemelt csúcspontja lesz.
 
 <div class="clear-both"></div>
 
 ---
 
-## Miért éppen április 4.?
+## Miért éppen április&nbsp;4.?
 
-2026\. április 4-én az atyák más eseményre is emlékeznek. Még ott cseng a fülünkben a kimondhatatlan sokszor kötelezően énekelt (hamis) felszabadulást éltető kommunista dal:
+2026\.&nbsp;április&nbsp;4-én az atyák más eseményre is emlékeznek. Még ott cseng a fülünkben a kimondhatatlan sokszor kötelezően énekelt (hamis) felszabadulást éltető kommunista dal:
 
 {{< youtube BbEk_LkbQI0 >}}
 
 Elhitették, hogy ennek vége és felszabadított nép leszünk, de valójában mi is történt?
 
-> „Az 1945. március 16. – április 4. közti időben végrehajtott előretörés következtében a 2. és 3. Ukrán Frontok csapatai befejezték Magyarország egész területének felszabadítását a német megszállóktól" – adta hírül 1945. április 4-én a Szovjet Tájékoztatási Iroda.
+> „Az 1945.&nbsp;március&nbsp;16. – április&nbsp;4. közti időben végrehajtott előretörés következtében a 2. és 3. Ukrán Frontok csapatai befejezték Magyarország egész területének felszabadítását a német megszállóktól" – adta hírül 1945.&nbsp;április&nbsp;4-én a Szovjet Tájékoztatási Iroda.
 
-Ezzel hivatalosan Magyarország területén véget ért a hosszú hónapok óta tartó háború, habár a Dunántúlon ekkor még zajlottak harci cselekmények. A Vörös Hadsereg a német csapatokat valóban kiszorította az ország területéről, de a szovjetek **valódi felszabadítás helyett megszállták hazánkat** és kommunista diktatúrát hoztak létre. A diktatúra évtizedei alatt április 4. pirosbetűs ünnepnap volt. A kommunista diktatúra magyarok millióival „ünnepeltette" évről évre az ország szovjet megszállását.
+Ezzel hivatalosan Magyarország területén véget ért a hosszú hónapok óta tartó háború, habár a Dunántúlon ekkor még zajlottak harci cselekmények. A Vörös Hadsereg a német csapatokat valóban kiszorította az ország területéről, de a szovjetek **valódi felszabadítás helyett megszállták hazánkat** és kommunista diktatúrát hoztak létre. A diktatúra évtizedei alatt április&nbsp;4. pirosbetűs ünnepnap volt. A kommunista diktatúra magyarok millióival „ünnepeltette" évről évre az ország szovjet megszállását.
 
 ---
 
 ## Egy történelmi lehetőség
 
-2026\. április 4-e egy történelmi esemény lehet, ha felismeri a magyar eklézsia, hogy mit kell cselekednie! Egy lehetőség arra, hogy **Húsvét szombatján** – azon a napon, amikor a világ legnagyobb fordulata következett be, a halálból feltámadás lett, a vereségből győzelem, a rabságból valódi szabadság – nos ezen a napon **imában hívjuk a Teremtő Istent segítségül**, hogy a magyar nép identitásába fordulat jöjjön, a szívében pedig felszabadulást éljen meg a tudatosan ránk kényszerített vesztes és depresszív mentalitás alól!
+2026\.&nbsp;április&nbsp;4-e egy történelmi esemény lehet, ha felismeri a magyar eklézsia, hogy mit kell cselekednie! Egy lehetőség arra, hogy **Húsvét szombatján** – azon a napon, amikor a világ legnagyobb fordulata következett be, a halálból feltámadás lett, a vereségből győzelem, a rabságból valódi szabadság – nos ezen a napon **imában hívjuk a Teremtő Istent segítségül**, hogy a magyar nép identitásába fordulat jöjjön, a szívében pedig felszabadulást éljen meg a tudatosan ránk kényszerített vesztes és depresszív mentalitás alól!
 
 Egyben megvalljuk, hogy **ennek az országnak Jézus Krisztus az Ura**, valódi szabadságot egyetlen egy ideológia sem hoz, egyedül Jézus Krisztus keresztáldozata a megoldás minden szabadságra vágyó ember, közösség és nemzet részére!
 
@@ -54,7 +54,7 @@ Egyben megvalljuk, hogy **ennek az országnak Jézus Krisztus az Ura**, valódi 
 
 Nemzeti Imanap – Papp László Sportaréna
 
-2026. április 4. - tervezett program
+2026.&nbsp;április&nbsp;4. - tervezett program
 
 - 12.45 - 13.00 Dicsőítésben történő érkezés
 - 13.00 - 14.00 Imádat/ Ima Izraelért, az öt földrészért, szomszédos országokért
@@ -95,7 +95,7 @@ Nemzeti Imanap – Papp László Sportaréna
 
 ### Időpont és helyszín
 
-- **Dátum:** 2026. április 4. (Húsvét szombat)
+- **Dátum:** 2026.&nbsp;április&nbsp;4. (Húsvét szombat)
 - **Helyszín:** Papp László Budapest Sportaréna
 - **Cím:** Budapest, Stefánia út 2.
 - **Nyelv:** Magyar
@@ -108,7 +108,7 @@ Nemzeti Imanap – Papp László Sportaréna
 - A belépés **ingyenes**, de regisztráció **kötelező**
 - A jegyek konkrét helyre érvényesek
 - Regisztrálni lehet csoportosan is
-- **Határidő:** 2026. április 1.
+- **Határidő:** 2026.&nbsp;április&nbsp;1.
 - Aki nem regisztrál, nem fog tudni belépni!
 
 [Regisztráció megnyitása →](https://docs.google.com/forms/d/e/1FAIpQLScaCd6sXpP4R36tOjjfeK0T0NNJTyXmtqdmPfrf5B6KAHr06A/viewform)

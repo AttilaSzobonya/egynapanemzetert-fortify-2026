@@ -22,5 +22,5 @@ hero:
 accordion:
   title: "Gyakran Ismételt Kérdések"
   subtitle: "GYIK"
-  description: "A leggyakrabban feltett kérdésekre adott válaszaink <br> a 2026. április 4-i Nemzeti Imanappal kapcsolatban."
+  description: "A leggyakrabban feltett kérdésekre adott válaszaink <br> a 2026.&nbsp;április&nbsp;4-i Nemzeti Imanappal kapcsolatban."
 ---

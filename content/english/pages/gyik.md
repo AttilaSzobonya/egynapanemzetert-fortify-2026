@@ -1,10 +1,10 @@
 ---
 title: "Gyakran Ismételt Kérdések"
 meta_title: "GYIK | Mohács 500 – 2026. április 4. Nemzeti Imanap"
-description: "Választ adunk a 2026. április 4-i Nemzeti Imanap leggyakrabban feltett kérdéseire. Helyszín, regisztráció, program és további tudnivalók."
+description: "Választ adunk a 2026.&nbsp;április&nbsp;4-i Nemzeti Imanap leggyakrabban feltett kérdéseire. Helyszín, regisztráció, program és további tudnivalók."
 ---
 
-## 2026. április 4. – Nemzeti Imanap – GYIK
+## 2026.&nbsp;április&nbsp;4. – Nemzeti Imanap – GYIK
 
 ---
 
@@ -13,7 +13,7 @@ description: "Választ adunk a 2026. április 4-i Nemzeti Imanap leggyakrabban f
 <details open>
 <summary><strong>Mikor és hol kerül megrendezésre az alkalom?</strong></summary>
 
-**2026. április 4.** – Papp László Budapest Sportaréna, Budapest, Stefánia út 2.
+**2026.&nbsp;április&nbsp;4.** – Papp László Budapest Sportaréna, Budapest, Stefánia út 2.
 
 </details>
 
@@ -71,7 +71,7 @@ A meghirdetett linken vagy QR-kód segítségével. A regisztráció **kötelez�
 <details>
 <summary><strong>Meddig lehet jelentkezni?</strong></summary>
 
-**2026. április 1.**
+**2026.&nbsp;április&nbsp;1.**
 
 </details>
 

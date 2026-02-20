@@ -3,14 +3,14 @@ image: "/images/features-explained/product.png"
 bg_image: "/images/features-explained/line.png"
 first_list:
   first_item:
-    title: "Április 4. – Budapest"
+    title: "Április&nbsp;4. – Budapest"
     description: "Húsvét szombatján a Papp László Sportarénában gyűlünk össze közös imára. A halálból feltámadás, a vereségből győzelem napja."
   second_item:
     title: "Ingyenes részvétel"
-    description: "A belépés ingyenes, de a regisztráció kötelező. A jegyek konkrét helyre érvényesek. Jelentkezési határidő: 2026. április 1."
+    description: "A belépés ingyenes, de a regisztráció kötelező. A jegyek konkrét helyre érvényesek. Jelentkezési határidő: 2026.&nbsp;április&nbsp;1."
 second_list:
   first_item:
-    title: "Augusztus 29. – Mohács"
+    title: "Augusztus&nbsp;29. – Mohács"
     description: "Ötszáz évvel a csata után nem gyászolni, hanem emlékezni és jövőt építeni szeretnénk. A reménység kapuja."
   second_item:
     title: "Felekezetközi egység"

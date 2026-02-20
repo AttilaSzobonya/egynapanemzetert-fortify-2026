@@ -9,7 +9,7 @@ list:
 
       Összesen 910-en vettünk részt ezeken az alkalmakon, ahol felekezettől függetlenül együtt imádkoztunk a nemzetért. Ezek a találkozók megalapozták a közös összefogást.
   - name: "BOK Csarnok, 2025"
-    designation: "Budapest, 2025. október 23."
+    designation: "Budapest, 2025.&nbsp;október&nbsp;23."
     icon: "fa-solid fa-people-group"
     content: |
       **Több mint 1700 ember gyűlt össze közös imára a nemzetért.**
@@ -28,16 +28,16 @@ list:
     content: |
       **A mozgósítás tovább erősödött az elmúlt hónapokban.**
 
-      Vármegyei találkozók, stratégiai egyeztetések, szakmai és lelki fórumok készítik elő a következő mérföldköveket: az április 4-i Nemzeti Imanapot és az augusztus 29-i mohácsi megemlékezést.
+      Vármegyei találkozók, stratégiai egyeztetések, szakmai és lelki fórumok készítik elő a következő mérföldköveket: az április&nbsp;4-i Nemzeti Imanapot és az augusztus&nbsp;29-i mohácsi megemlékezést.
   - name: "Áprilisi imanap"
-    designation: "Papp László Sportaréna, 2026. ápr. 4."
+    designation: "Papp László Sportaréna, 2026.&nbsp;ápr.&nbsp;4."
     icon: "fa-solid fa-church"
     content: |
       **Húsvét szombatja – a győzelem küszöbe.**
 
       A Papp László Sportarénában több ezer ember együtt imádkozik a nemzetért. Felekezetek együtt állnak az Úr előtt, és a múlt sebeire lelki válasz születik.
   - name: "Mohács&nbsp;500"
-    designation: "Mohács, 2026. augusztus 29."
+    designation: "Mohács, 2026.&nbsp;augusztus&nbsp;29."
     icon: "fa-solid fa-flag"
     content: |
       **„És adom neki szőlőit onnét, és az Ákór völgyét a reménység kapujává teszem; és ott énekel majd, mint ifjúsága napjaiban, és mint Egyiptom földjéről való feljövetele napján.” (Hóseás 2,15 – Károli)**

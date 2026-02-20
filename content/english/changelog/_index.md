@@ -9,7 +9,7 @@ list:
     short_title: "Nemzeti Imanap 2026"
     image: "/images/changelog/changelog-bg-1.png"
     date: 2026-04-04T05:00:00Z
-    version: "2026. április 4."
+    version: "2026.&nbsp;április&nbsp;4."
     content: |
       ##### Nemzeti Imanap – Papp László Budapest Sportaréna
 
@@ -24,13 +24,13 @@ list:
       3. **Fordulat a nemzeti identitásban** – imában kérjük a mindenható Istent, hogy a magyar nép identitásába fordulat jöjjön.
       4. **Megvallás** – ennek az országnak Jézus Krisztus az Ura, valódi szabadságot egyedül Ő hoz.
 
-      A belépés ingyenes, a regisztráció kötelező. Jelentkezési határidő: 2026. április 1.
+      A belépés ingyenes, a regisztráció kötelező. Jelentkezési határidő: 2026.&nbsp;április&nbsp;1.
 
   - title: "Mohács&nbsp;500 – Az 500. évforduló"
     short_title: "Mohács&nbsp;500 évforduló"
     image: "/images/changelog/changelog-bg-2.png"
     date: 2026-08-29T05:00:00Z
-    version: "2026. augusztus 29."
+    version: "2026.&nbsp;augusztus&nbsp;29."
     content: |
       ##### Mohács&nbsp;500 – A reménység kapuja
 
@@ -44,7 +44,7 @@ list:
     short_title: "BOK Csarnok imaalkalom"
     image: "/images/changelog/changelog-bg-3.png"
     date: 2025-10-23T05:00:00Z
-    version: "2025. október 23."
+    version: "2025.&nbsp;október&nbsp;23."
     content: |
       ##### BOK Csarnok – Közös ima a nemzetért
 

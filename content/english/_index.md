@@ -6,9 +6,9 @@ banner:
   A múlt sebeiből kiindulva a jövő felelősségére hívunk minden magyar testvért és keresztény lelki életet."
   image:
     main: "/images/banner.webp"
-    left: "/images/banner-left.png"
-    middle: "/images/banner-middle.png"
-    right: "/images/banner-right.png"
+    # left: "/images/banner-left.png"
+    # middle: "/images/banner-middle.png"
+    # right: "/images/banner-right.png"
     bg_image: "/images/bg-pattern.webp"
   button:
     get_started:
@@ -49,7 +49,7 @@ how_it_works:
 explained_features:
   title: "Két sorsfordító esemény. <br /> Egy közös misszi&oacute;."
   subtitle: "A Moh&aacute;cs 500 fontosabb mérföldkövei"
-  description: "Húsvét szombatján 2026. április 4-én és augusztus 29-én vagyunk jelen <br /> ahol egy nemzetről álmodunk szabad&aacute;ban és lelki szabads&aacute;gban."
+  description: "Húsvét szombatján 2026.&nbsp;április&nbsp;4-én és augusztus&nbsp;29-én vagyunk jelen <br /> ahol egy nemzetről álmodunk szabad&aacute;iban és lelki szabads&aacute;gban."
 
 # Pricing
 pricing:
@@ -61,5 +61,5 @@ pricing:
 customer_reviews:
   title: "Imamegmozdulások és találkozók"
   subtitle: "2.600 + résztvevő eddig"
-  description: "A Parlament Főrendiházi termében 2023-2025 között háromszor tartottunk közbenjáró alkalmak, <br /> ahol összesen 910-en vettünk részt. 2025. október 23-án a BOK Csarnokban több mint 1700 ember gyűlt össze közös imára."
+  description: "A Parlament Főrendiházi termében 2023-2025 között háromszor tartottunk közbenjáró alkalmak, <br /> ahol összesen 910-en vettünk részt. 2025.&nbsp;október&nbsp;23-án a BOK Csarnokban több mint 1700 ember gyűlt össze közös imára."
 ---

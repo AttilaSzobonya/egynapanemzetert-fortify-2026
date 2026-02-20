@@ -6,7 +6,7 @@ description: "A Mohács&nbsp;500 nem politikai kezdeményezés és nem pusztán 
 
 ## Közös emlékezetből közös jövő
 
-Ötszáz évvel ezelőtt, 1526. augusztus 29-én a magyar történelem egyik legmegrázóbb eseménye zajlott le Mohács mezején. A közbeszéd ezt a napot gyakran a „nemzeti tragédia" jelzővel illeti. A kollektív emlékezetben Mohács sokáig a vereség, a szétesés, a sorscsapás szimbóluma lett.
+Ötszáz évvel ezelőtt, 1526.&nbsp;augusztus&nbsp;29-én a magyar történelem egyik legmegrázóbb eseménye zajlott le Mohács mezején. A közbeszéd ezt a napot gyakran a „nemzeti tragédia" jelzővel illeti. A kollektív emlékezetben Mohács sokáig a vereség, a szétesés, a sorscsapás szimbóluma lett.
 
 **De vajon valóban csak ennyi?**
 
@@ -34,7 +34,7 @@ Izraelben volt egy völgy, az **Ákor völgye**, ahol vereséget szenvedtek, nem
 
 Isten ígérete Hóseásnál: a bukás helyét reménység kapujává fordítja. Ahol ítélet volt, ott új kezdet nyílik. A vereség helye fordulóponttá válik.
 
-Isten a legmélyebb vereség helyét is képes áldás kapujává tenni. A nyomorúság völgye az új kezdet kapuja lehet – nemcsak egyéni, hanem nemzeti szinten is. Ebben hiszünk mi is! Ezért hívunk mindenkit augusztus 29-ére Mohácsra. Emeljük fel egy szívvel a szavunkat a mi Urunkhoz Jézushoz, hadd legyen számunkra Mohács a **REMÉNYSÉG KAPUJA**, hogy az évszázados átokból kijőve egy új nap virradjon fel a magyar nemzet egén!
+Isten a legmélyebb vereség helyét is képes áldás kapujává tenni. A nyomorúság völgye az új kezdet kapuja lehet – nemcsak egyéni, hanem nemzeti szinten is. Ebben hiszünk mi is! Ezért hívunk mindenkit augusztus&nbsp;29-ére Mohácsra. Emeljük fel egy szívvel a szavunkat a mi Urunkhoz Jézushoz, hadd legyen számunkra Mohács a **REMÉNYSÉG KAPUJA**, hogy az évszázados átokból kijőve egy új nap virradjon fel a magyar nemzet egén!
 
 ---
 
@@ -45,7 +45,7 @@ Az elmúlt években országos szintű imamegmozdulások, vezetői műhelyek és 
 - A **Parlament Főrendiházi termében** 2023–2025 között háromszor tartottunk közbenjáró alkalmakat, ahol összesen **910-en** vettünk részt.
 - A rendszeresen szervezett **Lelkészműhelyek**, valamint a több megyét érintő körutak mind azt a célt szolgálták, hogy újra megtanuljunk együtt gondolkodni és együtt imádkozni.
 - Kapcsolatokat építettünk lelkészek, pásztorok, missziók és gyülekezetek között.
-- **2025. október 23-án** a budapesti BOK Csarnokban **több mint 1700 ember** gyűlt össze közös imára a nemzetért. Ez az alkalom nem demonstráció volt, hanem egy jelzés: létezik egy vágy az egységre.
+- **2025.&nbsp;október&nbsp;23-án** a budapesti BOK Csarnokban **több mint 1700 ember** gyűlt össze közös imára a nemzetért. Ez az alkalom nem demonstráció volt, hanem egy jelzés: létezik egy vágy az egységre.
 
 Azóta a mozgósítás tovább erősödött. Vármegyei találkozók, stratégiai egyeztetések, szakmai és lelki fórumok készítik elő a következő mérföldköveket.
 
@@ -53,15 +53,15 @@ Azóta a mozgósítás tovább erősödött. Vármegyei találkozók, stratégia
 
 ## Két sorsfordító esemény
 
-### 2026. április 4. – Budapest, Papp László Sportaréna
+### 2026.&nbsp;április&nbsp;4. – Budapest, Papp László Sportaréna
 
 Húsvét szombatján, azon a napon, amikor a világ legnagyobb fordulata következett be – a halálból feltámadás lett, a vereségből győzelem, a rabságból valódi szabadság –, imában hívjuk a Teremtő Istent segítségül.
 
-[Tudj meg többet az április 4-i eseményről →](/aprilis-4)
+[Tudj meg többet az április&nbsp;4-i eseményről →](/aprilis-4)
 <br />
 [Regisztráció megnyitása →](https://docs.google.com/forms/d/e/1FAIpQLScaCd6sXpP4R36tOjjfeK0T0NNJTyXmtqdmPfrf5B6KAHr06A/viewform)
 
-### 2026. augusztus 29. – Mohács
+### 2026.&nbsp;augusztus&nbsp;29. – Mohács
 
 Ötszáz évvel a csata után nem gyászolni szeretnénk, hanem emlékezni és jövőt építeni. Nem a vereség narratíváját erősíteni, hanem az összefogásét. Az ott harcolók a hazájukért álltak ki. Hősök voltak, akik életüket tudatosan tették le a családjaikért, a hazájukért.
 
@@ -71,9 +71,9 @@ Húsvét szombatján, azon a napon, amikor a világ legnagyobb fordulata követk
 
 A Mohács&nbsp;500 egy nyitott kezdeményezés. Egy közös ügy.
 
-**2026. április 4. – Budapest**
+**2026.&nbsp;április&nbsp;4. – Budapest**
 <br />
-**2026. augusztus 29. – Mohács**
+**2026.&nbsp;augusztus&nbsp;29. – Mohács**
 
 A Mohács&nbsp;500 látás nem csak egy évforduló. Ez egy lehetőség. Egy fordulópont. Egy közös döntés a jövőről.
 
