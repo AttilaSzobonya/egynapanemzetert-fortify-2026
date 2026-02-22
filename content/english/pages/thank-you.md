@@ -1,25 +1,25 @@
 ---
-title: "Köszönjük az üzenetét"
+title: "Köszönjük az üzeneted"
 meta_title: "Köszönjük | Mohács 500"
-description: "Köszönjük, hogy felvette velünk a kapcsolatot. Az üzenetét megkaptuk!"
+description: "Köszönjük, hogy felvetted velünk a kapcsolatot. Az üzeneted megkaptuk!"
 draft: false
 ---
 
 <div class="text-center py-16 lg:py-24">
   <div class="mb-8">
-    <h1 class="text-4xl font-bold mb-4">Köszönjük az üzenetét! ✓</h1>
-    <p class="text-lg text-gray-600">Az Ön üzenete sikeresen megérkezett hozzánk.</p>
+    <h1 class="text-4xl font-bold mb-4">Köszönjük az üzeneted! ✓</h1>
+    <p class="text-lg text-gray-600">Az üzeneted sikeresen megérkezett hozzánk.</p>
   </div>
 
   <div class="bg-light rounded-2xl p-8 md:p-12 max-w-2xl mx-auto mb-12">
     <p class="text-base mb-6">
-      Nagyon örülünk, hogy felvette velünk a kapcsolatot! Az üzenetét megkaptuk és hamarosan válaszolunk.
+      Nagyon örülünk, hogy felvetted velünk a kapcsolatot! Az üzeneted megkaptuk és hamarosan válaszolunk.
     </p>
   </div>
 
   <div class="bg-light rounded-2xl p-8 md:p-12 max-w-2xl mx-auto mb-12">
     <p class="text-base mb-6">
-      Amennyiben az üzenet nem igényel azonnali válasszal, kérjük türelmét – mivel sok üzenetet kapunk, néhány nap múlva fogjuk tudni áttekinteni és megválaszolni az Ön kérdéseit.
+      Amennyiben az üzenet nem igényel azonnali válasszal, kérjük türelmét – mivel sok üzenetet kapunk, néhány nap múlva fogjuk tudni áttekinteni és megválaszolni a kérdéseidet.
     </p>
   </div>
 
