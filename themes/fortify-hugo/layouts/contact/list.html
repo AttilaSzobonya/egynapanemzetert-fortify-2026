@@ -30,6 +30,8 @@
         -translate-x-1/2 lg:-top-7`) }}
         <div class="rounded-2xl bg-light p-5 md:p-10">
           <form class="row g-4 " action="{{ site.Params.contact_form_action }}" method="POST">
+            <!-- Hidden redirect field for form submission -->
+            <input type="hidden" name="_next" value="{{ .Site.BaseURL }}thank-you/" />
             <div class="lg:col-6">
               <label for="l-name" class="form-label">
                 {{ T "last_name" }} <span class="text-red-500">*</span></label><input id="l-name" name="name"

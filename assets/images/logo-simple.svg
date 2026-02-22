@@ -7,7 +7,7 @@
    viewBox="0 0 8.4666665 8.4666666"
    version="1.1"
    id="svg1"
-   inkscape:export-filename="icon.png"
+   inkscape:export-filename="favicon.png"
    inkscape:export-xdpi="100.16369"
    inkscape:export-ydpi="100.16369"
    inkscape:version="1.4.3 (0d15f75042, 2025-12-25)"
@@ -27,7 +27,7 @@
      inkscape:deskcolor="#d1d1d1"
      inkscape:document-units="mm"
      inkscape:zoom="11.032323"
-     inkscape:cx="7.6139901"
+     inkscape:cx="7.6139903"
      inkscape:cy="19.216261"
      inkscape:window-width="1920"
      inkscape:window-height="977"
@@ -49,7 +49,7 @@
       <g
          id="surface1">
         <path
-           style="fill:#dcf885;fill-opacity:1;fill-rule:nonzero;stroke:none"
+           style="fill:#c9cba3;fill-opacity:1;fill-rule:nonzero;stroke:none"
            d="m 45.464844,23.5 c 0,12.644531 -10.179688,22.898438 -22.734375,22.898438 C 10.175781,46.398438 0,36.144531 0,23.5 0,10.855469 10.175781,0.601562 22.730469,0.601562 c 12.554687,0 22.734375,10.253907 22.734375,22.898438 z m 0,0"
            id="path1" />
       </g>

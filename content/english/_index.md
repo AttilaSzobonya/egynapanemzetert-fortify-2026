@@ -60,6 +60,6 @@ pricing:
 # Customers Review
 customer_reviews:
   title: "Imamegmozdulások és találkozók"
-  subtitle: "2.600 + résztvevő eddig"
+  subtitle: "eddig 2.600+ résztvevő"
   description: "A Parlament Főrendiházi termében 2023-2025 között háromszor tartottunk közbenjáró alkalmak, <br /> ahol összesen 910-en vettünk részt. 2025.&nbsp;október&nbsp;23-án a BOK Csarnokban több mint 1700 ember gyűlt össze közös imára."
 ---

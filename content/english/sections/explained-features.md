@@ -1,5 +1,5 @@
 ---
-image: "/images/features-explained/product.png"
+image: "/images/features-explained/product.jpg"
 bg_image: "/images/features-explained/line.png"
 first_list:
   first_item:
