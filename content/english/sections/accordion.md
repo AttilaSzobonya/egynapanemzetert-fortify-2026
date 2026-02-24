@@ -18,5 +18,9 @@ list:
   - title: "Lesz online közvetítés?"
     description: "Nem lesz online vagy hibrid részvételi lehetőség. Az alkalmon való személyes jelenlét a lényeg."
   - title: "Lesz gyerekfelügyelet?"
-    description: "Igen, 2 éves kortól. A regisztráció során jelezd, ha igényled a gyerekszolgálatot, és e-mailben kapsz értesítést a részletekről."
+    description: "Igen, 3 éves kortól. A regisztráció során jelezd, ha igényled a gyerekszolgálatot, és e-mailben kapsz értesítést a részletekről."
+  - title: "Kell-e kinyomtatni a jegyeket?"
+    description: "Nem, a jegyeket nem kell kinyomtatni. Telefonról is be lehet mutatni az e-mailben kapott QR-kódot."
+  - title: "Be lehet vinni ételt és italt?"
+    description: "Nem lehet ételt-italt bevinni (kivétel bébiétel és cumisüveg). A helyszínen büfék működnek, ahol kizárólag bankkártyás fizetéssel lehet vásárolni."
 ---
