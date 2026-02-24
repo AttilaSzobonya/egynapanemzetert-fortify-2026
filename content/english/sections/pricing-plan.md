@@ -10,7 +10,7 @@ basic_plan:
   list:
     - item: "Közös ima a nemzetért"
     - item: "Felekezetközi egység"
-    - item: "Gyerekfelügyelet 2 éves kortól"
+    - item: "Gyerekfelügyelet 3 éves kortól"
     - item: "Ingyenes belépés"
     - item: "Regisztráció: [űrlap](https://docs.google.com/forms/d/e/1FAIpQLScaCd6sXpP4R36tOjjfeK0T0NNJTyXmtqdmPfrf5B6KAHr06A/viewform)"
     - item: "Regisztrációs határidő: ápr.&nbsp;1."

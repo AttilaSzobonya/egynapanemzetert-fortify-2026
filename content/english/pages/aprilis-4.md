@@ -151,8 +151,11 @@ Nemzeti Imanap – Papp László Sportaréna
 
 - 🅿️ Mélygarázs az Aréna alatt (≈1000+ hely)
 - Bejárat: Ifjúság útja / Stefánia út felől
+- Egységes rendezvényjegy a sorompónál belépéskor
 - Alternatív parkolás: Puskás Aréna környéke
 - ✅ Érdemes legalább **60–90 perccel** előbb érkezni
+
+**Fontos:** Babakocsival nem lehet a küzdőtéren tartózkodni, csak a lelátón és a folyosókon.
 
 </div>
 </div>

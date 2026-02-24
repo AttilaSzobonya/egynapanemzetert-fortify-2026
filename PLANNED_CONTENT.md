@@ -159,19 +159,19 @@ Nem.
 
 15. Lesz gyerekfelügyelet?
 
-Igen, 2 éves kortól. Ehhez a regisztrációban megadott e-mail cymen kapcs értesítést, ha megjelölted, hogy igényleg a gyerekszolglatot.
+Igen, 3 éves kortól. Ehhez a regisztrációban megadott e-mail címen kapsz értesítést, ha megjelölted, hogy igényled a gyerekszolgálatot.
 
 5. Parkolás
 
 16.. Lesz-e parkolási lehetőség a helyszínen?
 
-Igen, van parkolási lehetőség a mélygarázsban. Ennek díját mindenkinek rendeznie kell majd a kihajtás előtt.
+Igen, van parkolási lehetőség a mélygarázsban. Egységes rendezvényjegy van, amit a sorompónál kell fizetni belépéskor.
 
 6. Ellátás
 
 17. Biztosítanak-e étkezést?
 
-Nem biztosítunk étkezést.
+Nem biztosítunk étkezést, de a helyszínen büfék működnek. Fontos: a helyszíni büfékben kizárólag bankkártyás fizetéssel lehet vásárolni.
 
 
 
