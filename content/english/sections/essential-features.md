@@ -1,5 +1,5 @@
 ---
-title: "A mozgalom, amely <br /> a nemzet szívéhez szól."
+title: "A mozgalom, amely<br />&nbsp;a nemzet szívéhez szól."
 subtitle: "Fontos mérföldkövek"
 description: "Országos szintű imamegmozdulások, vezetői műhelyek és felekezetközi találkozók <br /> eredményei az elmúlt években."
 first_feature:
