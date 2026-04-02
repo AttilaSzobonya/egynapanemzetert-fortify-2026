@@ -1,6 +1,6 @@
 ---
 title: "2026. április 4. – Nemzeti Imanap"
-meta_title: "Április&nbsp;4. Nemzeti Imanap | Mohács&nbsp;500"
+meta_title: "Április 4. Nemzeti Imanap | Mohács 500"
 description: "2026.&nbsp;április&nbsp;4-én, Húsvét szombatján a Papp László Budapest Sportarénában gyűlünk össze közös imára a nemzetért."
 ---
 
