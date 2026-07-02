@@ -103,16 +103,6 @@ Nemzeti Imanap – Papp László Sportaréna
 </div>
 <div class="md:col-6">
 
-### Regisztráció
-
-- A belépés **ingyenes**, de regisztráció **kötelező**
-- A jegyek konkrét helyre érvényesek
-- Regisztrálni lehet csoportosan is
-- **Határidő:** 2026.&nbsp;április&nbsp;1.
-- Aki nem regisztrál, nem fog tudni belépni!
-
-[Regisztráció megnyitása →](https://docs.google.com/forms/d/e/1FAIpQLScaCd6sXpP4R36tOjjfeK0T0NNJTyXmtqdmPfrf5B6KAHr06A/viewform)
-
 </div>
 </div>
 

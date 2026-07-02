@@ -11,10 +11,6 @@ banner:
     # right: "/images/banner-right.png"
     bg_image: "/images/bg-pattern.webp"
   button:
-    get_started:
-      enable: true
-      label: "Regisztráció"
-      link: "aprilis-4"
     learn_more:
       enable: true
       label: "A Látásról"
@@ -24,9 +20,9 @@ banner:
 countdown:
   enable: true
   title: "Visszaszámlálás"
-  subtitle: "2026. április 4. 13:00"
+  subtitle: "2026. augusztus 29. 13:00"
   description: "Készüljünk együtt az alkalomra."
-  date: "2026-04-04T13:00:00+02:00"
+  date: "2026-08-29T13:00:00+02:00"
 
 #How it Works
 how_it_works:
