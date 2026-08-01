@@ -18,6 +18,6 @@
     }
   },
   "remoteUser": "node",
-  "postCreateCommand": "npm install && npm run dev:example",
+  "postCreateCommand": "git submodule update --init --recursive && npm install && npm run dev:example",
   "forwardPorts": [1313]
 }
