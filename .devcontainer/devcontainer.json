@@ -4,7 +4,7 @@
     "dockerfile": "Dockerfile",
     "args": {
       "GO_VERSION": "1.22.3",
-      "HUGO_VERSION": "0.126.1"
+      "HUGO_VERSION": "0.148.2"
     }
   },
   "customizations": {
@@ -20,5 +20,7 @@
   "remoteUser": "node",
   "postCreateCommand": "npm install && npm run project-setup",
   "postStartCommand": "nohup npm run dev -- --bind 0.0.0.0 --port 1313 > /tmp/hugo.log 2>&1 &",
-  "forwardPorts": [1313]
+  "forwardPorts": [
+    1313
+  ]
 }
