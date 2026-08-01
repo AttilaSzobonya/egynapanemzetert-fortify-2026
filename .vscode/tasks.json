@@ -5,7 +5,7 @@
     {
       "label": "Development",
       "type": "shell",
-      "command": "yarn dev:example",
+      "command": "go run github.com/gohugoio/hugo@v0.148.2 server",
       "isBackground": true,
       "group": {
         "kind": "test",
@@ -15,7 +15,7 @@
     {
       "label": "Build",
       "type": "shell",
-      "command": "yarn build:example",
+      "command": "go run github.com/gohugoio/hugo@v0.148.2 --gc --minify --templateMetrics --templateMetricsHints --forceSyncStatic",
       "group": {
         "kind": "build",
         "isDefault": true

@@ -57,7 +57,7 @@ Azóta a mozgósítás tovább erősödött. Vármegyei találkozók, stratégia
 
 Húsvét szombatján, azon a napon, amikor a világ legnagyobb fordulata következett be – a halálból feltámadás lett, a vereségből győzelem, a rabságból valódi szabadság –, imában hívjuk a Teremtő Istent segítségül.
 
-[Tudj meg többet az április&nbsp;4-i eseményről →](/aprilis-4)
+[Tudj meg többet a részletekről →](/august-29)
 
 ### 2026.&nbsp;augusztus&nbsp;29. – Mohács
 

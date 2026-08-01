@@ -206,7 +206,7 @@ Content is organized by language and section:
 
 - **Main Site:** `/`
 - **About/Vision:** `/latas`
-- **April 4 Event:** `/aprilis-4`
+- **August 29 Event:** `/august-29`
 - **Blog:** `/blog`
 - **Features:** `/feature`
 - **Pricing/Participation:** `/pricing`

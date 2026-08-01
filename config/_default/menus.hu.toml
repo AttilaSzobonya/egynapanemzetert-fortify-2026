@@ -7,15 +7,19 @@ url = "/latas/"
 weight = 1
 
 [[main]]
+name = "Augusztus 29."
+url = "/august-29/"
+weight = 2
+
+[[main]]
 name = "GYIK"
 url = "/gyik/"
-weight = 2
+weight = 3
 
 [[main]]
 name = "Kapcsolat"
 pageRef = "/contact"
-weight = 3
-
+weight = 4
 
 
 # footer menu
@@ -24,11 +28,16 @@ name = "Látás – Mohács 500"
 url = "/latas"
 weight = 1
 
+[[footer_01]]
+name = "Augusztus 29."
+url = "/august-29"
+weight = 2
+
 
 [[footer_01]]
 name = "GYIK"
 url = "/gyik"
-weight = 2
+weight = 3
 
 [[footer_02]]
 name = "Kapcsolat"
