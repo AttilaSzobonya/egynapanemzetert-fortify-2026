@@ -1,12 +1,12 @@
 ---
 enable: true
-title: "Csatlakozz a Nemzeti Imanaphoz – 2026.&nbsp;április&nbsp;4."
-description: "Gyere el a Papp László Sportarénába, és imádkozzunk együtt a nemzetért. A belépés ingyenes, de a regisztráció kötelező."
+title: "Csatlakozz a Mohács&nbsp;500 mozgalomhoz – 2026.&nbsp;augusztus&nbsp;29."
+description: "Mohács a reménység kapuja: ötszáz évvel a csata után nem gyászolni, hanem közösen emlékezni és jövőt építeni. Gyere el Mohácsra az imaharcba!"
 image: "/images/cta-bg.png"
 button:
   enable: true
-  label: "Részletek és GYIK"
-  link: "gyik"
+  label: "Tudj meg többet"
+  link: "latas"
 
 # don't create a separate page
 build:
