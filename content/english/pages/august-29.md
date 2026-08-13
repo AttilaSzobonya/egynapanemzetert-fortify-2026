@@ -1,36 +1,54 @@
 ---
 title: "2026. augusztus 29. – Mohács 500 Nemzeti Imanap"
 meta_title: "Augusztus 29. Nemzeti Imanap | Mohács 500"
-description: "2026.&nbsp;augusztus&nbsp;29-én Mohácson, a Deák Ferenc téren közös imára gyűlünk össze a nemzetért a Mohács 500 emlékév kiemelt alkalmán."
+description: "2026.&nbsp;augusztus&nbsp;29-én Mohácson, három helyszínen emlékezünk, imádkozunk és ünnepelünk a Mohács 500 emlékév kiemelt alkalmán."
 ---
 
 ## Mohács 500 - Nemzeti Imanap Mohácson
 
-2026.&nbsp;augusztus&nbsp;29-én Mohácson, a Deák Ferenc téren (a Hősi emlékmű előtti téren) közös imára gyűlünk össze a nemzetért. A rendezvény célja az egység, a hálaadás és a lelki megújulás.
+2026.&nbsp;augusztus&nbsp;29-én Mohácson, három helyszínen emlékezünk, imádkozunk és ünnepelünk a nemzetért. A Mohács 500 Nemzeti Imanap az állami és katolikus ünnepi megemlékezések programjai közé illeszkedik.
 
 ---
 
 ## Program
 
-**Helyszín:** Mohács, Deák Ferenc tér - Hősi emlékmű előtti tér
+**Helyszínek:**
+
+- Mohács, Széchenyi tér: állami és katolikus ünnepi programok, valamint az esti rockmusical
+- Mohács, Deák tér: az „Egy nap a Nemzetért” imanap és a máshol zajló programok élő közvetítése
+- Mohácsi Nemzeti Emlékhely: zárt terület, csak kijelölt személyek részére
 
 **Dátum:** 2026.08.29.
 
-- 13:15-től: a "Magyar pillanatképek" film vetítése
-- 13:30: hivatalos kezdés
+### A nap programja
 
-### Főbb programpontok
+- **10:00:** állami protokolláris rendezvény a Széchenyi téren, élő közvetítéssel a Deák téri LED falakon
+- **11:00:** főpapi szentmise a Széchenyi téren, a mohácsi csatában elesettek földi maradványainak beszentelésével; élő közvetítés a Deák téren
+- **12:30:** koszorúzás II. Lajos szobránál a Széchenyi téren; élő közvetítés a Deák téren
+- **13:00–14:30:** „Egy nap a Nemzetért” imanap a Deák téren, a két LED fal között felállított színpadon
+- **14:30–18:00:** élő közvetítés a Deák téren a Mohácsi Nemzeti Emlékhely megemlékezéseiről és a csata újrajátszásáról
+- **18:00–19:30:** Nick Vujicic szolgálata a Deák téren
+- **20:30:** „Mindig itt leszünk...” Mohács 500 rockmusical ősbemutatója a Széchenyi téren. Élő közvetítés nem lesz.
 
-- Köszöntés
-- Ismertető a Mohácsi csatáról (10 perc)
-- Miért jövünk össze? (10 perc)
-- Himnusz
-- Mohácsi kiáltvány, ima
-- Dicsőítés
-- Nick Vujicic szolgálata
-- Zárás
+### Az „Egy nap a Nemzetért” imanap programja
 
-**Várható befejezés:** 16:30
+- **13:00:** köszöntés
+- **13:15:** Vésztől a reményteljes jövőig! – ima Magyarország reményteljes jövőjéért
+- **13:30:** Őrizzük meg, ami ránk van bízva! – ima hitünkért, szabadságunkért és gyermekeink jövőjéért
+- **13:40:** Kelj életre Magyarország! – ima a négy égtáj felé
+- **14:00:** dicséret: Ima a magyar népért – Mézes Áron és Prazsák László
+- **14:05:** Gyógyuljon meg a földünk! – ima Magyarországért
+- **14:15:** dicsőítés – Lakatos Péter
+- **14:30:** zárás
+
+### A Mohácsi Nemzeti Emlékhely közvetített programja
+
+- A kápolna felszentelése
+- A földi maradványok eltemetése
+- Megemlékező beszéd
+- Koszorúzás
+- Kerekasztal-beszélgetés a mohácsi csatáról
+- A csata újrajátszása élő imitációval
 
 Nick Vujicic munkássága: [nickvujicic.com](https://nickvujicic.com/)
 
@@ -49,7 +67,7 @@ Nick Vujicic munkássága: [nickvujicic.com](https://nickvujicic.com/)
 
 ## Megközelítés
 
-- **Cím:** Mohács, Deák Ferenc téren a Hősi emlékmű előtti tér
+- **Cím:** Mohács, Deák tér
 - **Tömegközlekedés:** távolsági buszjárat a Deák téren áll meg
 - **Google Maps:** [Mohács helyszín](https://maps.app.goo.gl/DcNykyjMPNn8Xvrt6?g_st=i&utm_campaign=ac-im)
 
@@ -101,7 +119,8 @@ Nick Vujicic munkássága: [nickvujicic.com](https://nickvujicic.com/)
 ### Fotó- és videófelvételek
 
 - A rendezvényen kép- és hangfelvétel készül.
-- Élő közvetítés nem lesz.
+- A Széchenyi és a Deák téri programok regisztráció és belépő nélkül elérhetők.
+- A Deák téren élő közvetítés látható a Széchenyi téri és a Mohácsi Nemzeti Emlékhelyen zajló programokról. A 20:30-kor kezdődő rockmusicalt nem közvetítik.
 
 ---
 

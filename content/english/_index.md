@@ -20,9 +20,9 @@ banner:
 countdown:
   enable: true
   title: "Visszaszámlálás"
-  subtitle: "2026. augusztus 29. 13:30"
-  description: "Készüljünk együtt az alkalomra."
-  date: "2026-08-29T13:30:00+02:00"
+  subtitle: "2026. augusztus 29. 10:00"
+  description: "Készüljünk együtt Mohács 500 történelmi napjára."
+  date: "2026-08-29T10:00:00+02:00"
 
 #How it Works
 how_it_works:

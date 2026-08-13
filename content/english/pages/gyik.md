@@ -13,9 +13,9 @@ description: "Választ adunk a 2026.&nbsp;augusztus&nbsp;29-i Mohács 500 Nemzet
 <details open>
 <summary><strong>Mikor és hol kerül megrendezésre az alkalom?</strong></summary>
 
-**2026.&nbsp;augusztus&nbsp;29.**, kezdés: **13:30**. 
+**2026.&nbsp;augusztus&nbsp;29.**, kezdés: **10:00**.
 
-Helyszín: Mohács, Deák Ferenc tér, a Hősi emlékmű előtti tér.
+Helyszínek: Mohács, Széchenyi tér; Mohács, Deák tér; valamint a zárt Mohácsi Nemzeti Emlékhely.
 
 </details>
 
@@ -31,7 +31,7 @@ Helyszín: Mohács, Deák Ferenc tér, a Hősi emlékmű előtti tér.
 <details>
 <summary><strong>Lesz online vagy hibrid részvételi lehetőség?</strong></summary>
 
-Nem lesz online közvetítés.
+A Deák téren LED falakon követhetők a Széchenyi téren és a Mohácsi Nemzeti Emlékhelyen zajló programok. A 20:30-kor kezdődő rockmusicalt nem közvetítik.
 
 </details>
 
@@ -63,14 +63,14 @@ Igen, a részvétel ingyenes. Adományt QR-kóddal lehet adni (a helyszínen ki 
 <details>
 <summary><strong>Lesz élő közvetítés?</strong></summary>
 
-Nem lesz élő közvetítés.
+Igen. A Deák téren élő közvetítés látható a Széchenyi téri és a Mohácsi Nemzeti Emlékhelyen zajló programokról.
 
 </details>
 
 <details>
 <summary><strong>Meddig tart a program?</strong></summary>
 
-A befejezés tervezett ideje: **16:30**.
+A Deák téri program 18:00-kor ér véget, Nick Vujicic szolgálata pedig 18:00–19:30 között lesz.
 
 </details>
 
@@ -102,7 +102,7 @@ Nem.
 <details>
 <summary><strong>Mikor kezdődik a program?</strong></summary>
 
-Hivatalos kezdés: **13:30**, előtte **13:15-től** filmvetítés.
+A nap programja **10:00-kor** kezdődik a Széchenyi téren. Az „Egy nap a Nemzetért” imanap **13:00-kor** kezdődik a Deák téren.
 
 </details>
 
