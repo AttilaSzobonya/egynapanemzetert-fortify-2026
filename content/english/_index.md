@@ -24,6 +24,16 @@ countdown:
   description: "Készüljünk együtt Mohács 500 történelmi napjára."
   date: "2026-08-29T10:00:00+02:00"
 
+# Schedule Notice
+schedule_notice:
+  enable: true
+  eyebrow: "Fontos programváltozás"
+  title: "Mohács 500 új helyszínekkel és időpontokkal"
+  description: "Kérjük, érkezés előtt ellenőrizd a frissített programot!"
+  details: "A nap 10:00-kor a Széchenyi téren kezdődik. Az Egy nap a Nemzetért imanap 13:00-kor a Deák téren lesz, ahol a más helyszíneken zajló programokat is élőben követheted."
+  link_label: "Részletes program és helyszínek"
+  link: "/august-29"
+
 #How it Works
 how_it_works:
   subtitle: "Mit szeretnénk elérni"

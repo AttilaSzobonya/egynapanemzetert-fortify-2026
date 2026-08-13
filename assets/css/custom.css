@@ -88,6 +88,81 @@
 	color: #e26d5c;
 }
 
+.schedule-notice-section {
+	padding: 1.5rem 0 0;
+}
+
+.schedule-notice {
+	display: grid;
+	grid-template-columns: auto minmax(0, 1fr);
+	gap: 1.25rem;
+	align-items: start;
+	padding: 1.5rem;
+	border: 3px solid #d9863b;
+	border-radius: 16px;
+	background: #fff3cf;
+	box-shadow: 0 24px 45px -36px rgba(71, 45, 48, 0.55);
+}
+
+.schedule-notice-mark {
+	display: flex;
+	width: 2.75rem;
+	height: 2.75rem;
+	align-items: center;
+	justify-content: center;
+	border-radius: 50%;
+	background: #d9863b;
+	color: #fffaf0;
+	font-size: 1.5rem;
+	font-weight: 800;
+	line-height: 1;
+}
+
+.schedule-notice-eyebrow {
+	margin: 0 0 0.35rem;
+	color: #9b4f2f;
+	font-size: 0.8rem;
+	font-weight: 800;
+	letter-spacing: 0.12em;
+	text-transform: uppercase;
+}
+
+.schedule-notice h2 {
+	margin-bottom: 0.5rem;
+	color: #472d30;
+	font-size: clamp(1.5rem, 3vw, 2.25rem);
+	line-height: 1.15;
+}
+
+.schedule-notice-lead,
+.schedule-notice-details {
+	max-width: 60rem;
+	color: #5d3b37;
+}
+
+.schedule-notice-lead {
+	margin-bottom: 0.5rem;
+	font-size: 1.1rem;
+	font-weight: 700;
+}
+
+.schedule-notice-details {
+	margin-bottom: 1.25rem;
+}
+
+.schedule-notice-link {
+	border-color: #9b4f2f;
+	color: #7b402c;
+}
+
+@media (max-width: 575px) {
+	.schedule-notice {
+		grid-template-columns: 1fr;
+		gap: 1rem;
+		padding: 1.25rem;
+	}
+}
+
 @media (min-width: 768px) {
 	.countdown-grid {
 		grid-template-columns: repeat(4, minmax(0, 1fr));

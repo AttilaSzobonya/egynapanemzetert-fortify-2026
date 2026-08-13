@@ -1,4 +1,27 @@
 {{ define "main" }}
+<!-- Schedule Notice -->
+{{ with .Params.schedule_notice }}
+{{ if .enable }}
+<section class="schedule-notice-section" aria-labelledby="schedule-notice-title">
+  <div class="container">
+    <div class="schedule-notice" data-aos="fade-up-sm">
+      <div class="schedule-notice-mark" aria-hidden="true">!</div>
+      <div class="schedule-notice-content">
+        <p class="schedule-notice-eyebrow">{{ .eyebrow | markdownify }}</p>
+        <h2 id="schedule-notice-title">{{ .title | markdownify }}</h2>
+        <p class="schedule-notice-lead">{{ .description | markdownify }}</p>
+        <p class="schedule-notice-details">{{ .details | markdownify }}</p>
+        <a class="btn btn-outline-primary btn-no-icon schedule-notice-link" href="{{ .link }}">
+          {{ .link_label | markdownify }}
+        </a>
+      </div>
+    </div>
+  </div>
+</section>
+{{ end }}
+{{ end }}
+<!-- /Schedule Notice -->
+
 <!-- Banner -->
 {{ with .Params.banner }}
 <section class="pb-0 pt-16">
