@@ -49,7 +49,7 @@ Magyar nyelven.
 <details>
 <summary><strong>Hogyan lehet regisztrálni?</strong></summary>
 
-Nem szükséges regisztráció.
+**Nem szükséges regisztráció a Széchenyi és a Deák téri programokra.**
 
 </details>
 
@@ -63,14 +63,14 @@ Igen, a részvétel ingyenes. Adományt QR-kóddal lehet adni (a helyszínen ki 
 <details>
 <summary><strong>Lesz élő közvetítés?</strong></summary>
 
-Igen. A Deák téren élő közvetítés látható a Széchenyi téri és a Mohácsi Nemzeti Emlékhelyen zajló programokról.
+**Igen. A Deák téren élő közvetítés látható a Széchenyi téri és a Mohácsi Nemzeti Emlékhelyen zajló programokról (10:00-18:00 között). A 20:30-kor kezdődő rockmusicalt nem közvetítik.**
 
 </details>
 
 <details>
 <summary><strong>Meddig tart a program?</strong></summary>
 
-A Deák téri program 18:00-kor ér véget, Nick Vujicic szolgálata pedig 18:00–19:30 között lesz.
+**A Deák téri élő közvetítés 18:00-kor ér véget, Nick Vujicic szolgálata 18:00-19:30 között lesz. A nap záróprogramja 20:30-kor a Széchenyi téren kezdődő rockmusical.**
 
 </details>
 
@@ -88,7 +88,7 @@ A részletes program a weboldalon található.
 <details>
 <summary><strong>Lesznek-e párhuzamos szekciók?</strong></summary>
 
-Nem.
+**Igen. A program három helyszínen zajlik (Széchenyi tér, Deák tér, Mohácsi Nemzeti Emlékhely), a Deák téren pedig LED falakon élő közvetítés is látható a párhuzamos eseményekről.**
 
 </details>
 

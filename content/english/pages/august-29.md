@@ -25,8 +25,10 @@ description: "2026.&nbsp;augusztus&nbsp;29-én Mohácson, három helyszínen eml
 - **10:00:** állami protokolláris rendezvény a Széchenyi téren, élő közvetítéssel a Deák téri LED falakon
 - **11:00:** főpapi szentmise a Széchenyi téren, a mohácsi csatában elesettek földi maradványainak beszentelésével; élő közvetítés a Deák téren
 - **12:30:** koszorúzás II. Lajos szobránál a Széchenyi téren; élő közvetítés a Deák téren
+- **13:00:** **a Széchenyi téri program és annak Deák téri közvetítésének vége**
 - **13:00–14:30:** **„Egy nap a Nemzetért” imanap a Deák téren, a két LED fal között felállított színpadon**
 - **14:30–18:00:** élő közvetítés a Deák téren a Mohácsi Nemzeti Emlékhely megemlékezéseiről és a csata újrajátszásáról
+- **18:00:** **az élő program és a Deák téri közvetítés vége**
 - **18:00–19:30:** **Nick Vujicic szolgálata a Deák téren**
 - **20:30:** „Mindig itt leszünk...” Mohács 500 rockmusical ősbemutatója a Széchenyi téren. Élő közvetítés nem lesz.
 
