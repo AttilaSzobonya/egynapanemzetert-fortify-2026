@@ -5,32 +5,31 @@ FROM node:20
 ARG HUGO_VERSION=0.126.1
 ARG GO_VERSION=1.22.3
 
-# Install dependencies
+# Install build and runtime dependencies.
 RUN apt-get update && \
-    apt-get install -y ca-certificates openssl git curl && \
+    apt-get install -y --no-install-recommends ca-certificates curl git openssl && \
     rm -rf /var/lib/apt/lists/*
 
-# Determine architecture
-RUN ARCH=$(uname -m) && \
-    if [ "$ARCH" = "aarch64" ]; then ARCH=arm64; else ARCH=amd64; fi && \
-    echo "Architecture: $ARCH"
-
-# Download and install Hugo
-RUN ARCH=$(uname -m) && \
-    if [ "$ARCH" = "aarch64" ]; then ARCH=arm64; else ARCH=amd64; fi && \
-    wget -O hugo_extended_${HUGO_VERSION}.tar.gz https://github.com/gohugoio/hugo/releases/download/v${HUGO_VERSION}/hugo_extended_${HUGO_VERSION}_linux-${ARCH}.tar.gz && \
-    tar xf hugo_extended_${HUGO_VERSION}.tar.gz && \
-    mv hugo /usr/bin/hugo && \
-    rm hugo_extended_${HUGO_VERSION}.tar.gz && \
-    echo "Hugo installed"
-
-# Download and install Go
-RUN ARCH=$(uname -m) && \
-    if [ "$ARCH" = "aarch64" ]; then ARCH=arm64; else ARCH=amd64; fi && \
-    wget -O go${GO_VERSION}.linux-${ARCH}.tar.gz https://dl.google.com/go/go${GO_VERSION}.linux-${ARCH}.tar.gz && \
-    tar -C /usr/local -xzf go${GO_VERSION}.linux-${ARCH}.tar.gz && \
-    rm go${GO_VERSION}.linux-${ARCH}.tar.gz && \
-    echo "Go installed"
+# Download architecture-specific Hugo and Go releases. node:20 is multi-arch, so
+# resolve the download architecture at build time for both Apple Silicon and x86 hosts.
+RUN set -eux; \
+    case "$(uname -m)" in \
+        aarch64|arm64) ARCH=arm64 ;; \
+        x86_64|amd64) ARCH=amd64 ;; \
+        *) echo "Unsupported architecture: $(uname -m)" >&2; exit 1 ;; \
+    esac; \
+    curl --fail --location --retry 3 --output /tmp/hugo.tar.gz \
+        "https://github.com/gohugoio/hugo/releases/download/v${HUGO_VERSION}/hugo_extended_${HUGO_VERSION}_linux-${ARCH}.tar.gz"; \
+    tar -xzf /tmp/hugo.tar.gz -C /tmp hugo; \
+    install -m 0755 /tmp/hugo /usr/local/bin/hugo; \
+    rm -f /tmp/hugo.tar.gz /tmp/hugo; \
+    curl --fail --location --retry 3 --output /tmp/go.tar.gz \
+        "https://dl.google.com/go/go${GO_VERSION}.linux-${ARCH}.tar.gz"; \
+    tar -C /usr/local -xzf /tmp/go.tar.gz; \
+    ln -sf /usr/local/go/bin/go /usr/local/bin/go; \
+    rm -f /tmp/go.tar.gz; \
+    hugo version; \
+    /usr/local/go/bin/go version
 
 # Export Go path
-ENV PATH=$PATH:/usr/local/go/bin
+ENV PATH="/usr/local/go/bin:${PATH}"
