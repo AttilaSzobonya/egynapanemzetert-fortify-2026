@@ -16,23 +16,6 @@ banner:
       label: "A Látásról"
       link: "latas"
 
-# Countdown
-countdown:
-  enable: true
-  title: "Visszaszámlálás"
-  subtitle: "2026. augusztus 29. 10:00"
-  description: "Készüljünk együtt Mohács 500 történelmi napjára."
-  date: "2026-08-29T10:00:00+02:00"
-
-# Schedule Notice
-schedule_notice:
-  enable: true
-  eyebrow: "Fontos programváltozás"
-  title: "Mohács 500 új helyszínekkel és időpontokkal"
-  description: "Kérjük, érkezés előtt ellenőrizd a frissített programot! **Utolsó frissítés: 2026. augusztus 16.**"
-  details: "A nap 10:00-kor a Széchenyi téren kezdődik. Az Egy nap a Nemzetért imanap 13:00-kor a Deák téren lesz, ahol a más helyszíneken zajló programokat is élőben követheted."
-  link_label: "Részletes program és helyszínek"
-  link: "/august-29"
 
 #How it Works
 how_it_works:

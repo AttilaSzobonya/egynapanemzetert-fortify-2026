@@ -96,11 +96,11 @@ The site uses a carefully curated color palette that reflects the movement's spi
    yarn install
    ```
 
-<!--2. **Run local development server:**
+2. **Run local development server:**
    ```bash
    yarn dev
    ```
-   The site will be available at `http://localhost:1313`-->
+   The site will be available at `http://localhost:1313`
 
 3. **Build for production:**
    ```bash
@@ -206,7 +206,7 @@ Content is organized by language and section:
 
 - **Main Site:** `/`
 - **About/Vision:** `/latas`
-- **August 29 Event:** `/august-29`
+
 - **Blog:** `/blog`
 - **Features:** `/feature`
 - **Pricing/Participation:** `/pricing`

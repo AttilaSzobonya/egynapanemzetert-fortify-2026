@@ -17,10 +17,4 @@ hero:
       title: "Weboldal"
       description: "További információk és anyagok elérhetők a www.alabastromprojekt.hu oldalon."
 
-
-# Faq
-accordion:
-  title: "Gyakran Ismételt Kérdések"
-  subtitle: "GYIK"
-  description: "A leggyakrabban feltett kérdésekre adott válaszaink <br> a 2026.&nbsp;április&nbsp;4-i Nemzeti Imanappal kapcsolatban."
 ---
