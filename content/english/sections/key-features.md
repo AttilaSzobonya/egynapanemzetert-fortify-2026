@@ -7,7 +7,7 @@ features:
     description: "Ismerd meg a mozgalom szellemi hátterét, az Ákor völgyének prófétai üzenetét (Hóseás 2,15 – Károli) és a Mohács&nbsp;500 célkitűzéseit."
     image: "/images/key-features/feature-1.png"
   - title: "Április&nbsp;4. – Nemzeti Imanap a<wbr /> Papp László Arénában"
-    description: "Húsvét szombatján, 2026.&nbsp;április&nbsp;4-én több ezer ember együtt imádkozik a nemzetért. Tudj meg mindent az eseményről."
+    description: "Húsvét szombatján, 2026.&nbsp;április&nbsp;4-én több ezer ember együtt imádkozott a nemzetért. Tudj meg mindent az eseményről."
     image: "/images/key-features/feature-2.png"
 
 ---

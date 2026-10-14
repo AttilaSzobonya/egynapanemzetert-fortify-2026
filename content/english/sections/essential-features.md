@@ -14,7 +14,7 @@ first_feature:
       description: "2025.&nbsp;október&nbsp;23-án közös imára gyűlt össze a nemzet szerte érkező testvérek serege."
       icon: "fa-solid fa-people-group"
 second_feature:
-  title: "Következő mérföldkövek"
+  title: "További mérföldkövek"
   image: "/images/essential-features/feature-2.png"
   list:
     - item: "2026.&nbsp;április&nbsp;4. – Nemzeti Imanap a Papp László Budapest Sportarénában"

@@ -4,7 +4,7 @@
 
 ## 🎯 Project Overview
 
-Mohács 500 is a multilingual (Hungarian/English) movement website dedicated to commemorating the 500th anniversary of the Battle of Mohács (1526) and calling for spiritual renewal, national unity, and collective responsibility across all Christian denominations. The site coordinates two major gatherings in 2026:
+Mohács 500 is a multilingual (Hungarian/English) movement website dedicated to commemorating the 500th anniversary of the Battle of Mohács (1526) and calling for spiritual renewal, national unity, and collective responsibility across all Christian denominations. The site coordinated two major gatherings in 2026:
 
 - **April 4, 2026** – Spiritual unity gathering (Easter Saturday)
 - **August 29, 2026** – Second gathering for freedom and spiritual renewal

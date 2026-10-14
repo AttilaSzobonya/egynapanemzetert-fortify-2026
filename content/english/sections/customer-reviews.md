@@ -28,19 +28,19 @@ list:
     content: |
       **A mozgósítás tovább erősödött az elmúlt hónapokban.**
 
-      Vármegyei találkozók, stratégiai egyeztetések, szakmai és lelki fórumok készítik elő a következő mérföldköveket: az április&nbsp;4-i Nemzeti Imanapot és az augusztus&nbsp;29-i mohácsi megemlékezést.
+      Vármegyei találkozók, stratégiai egyeztetések, szakmai és lelki fórumok készítették elő a következő mérföldköveket: az április&nbsp;4-i Nemzeti Imanapot és az augusztus&nbsp;29-i mohácsi megemlékezést.
   - name: "Áprilisi imanap"
     designation: "Papp László Sportaréna, 2026.&nbsp;ápr.&nbsp;4."
     icon: "fa-solid fa-church"
     content: |
       **Húsvét szombatja – a győzelem küszöbe.**
 
-      A Papp László Sportarénában több ezer ember együtt imádkozik a nemzetért. Felekezetek együtt állnak az Úr előtt, és a múlt sebeire lelki válasz születik.
+      A Papp László Sportarénában több ezer ember együtt imádkozott a nemzetért. Felekezetek együtt álltak az Úr előtt, és a múlt sebeire lelki válasz született.
   - name: "Mohács&nbsp;500"
     designation: "Mohács, 2026.&nbsp;augusztus&nbsp;29."
     icon: "fa-solid fa-flag"
     content: |
       **„És adom neki szőlőit onnét, és az Ákór völgyét a reménység kapujává teszem; és ott énekel majd, mint ifjúsága napjaiban, és mint Egyiptom földjéről való feljövetele napján.” (Hóseás 2,15 – Károli)**
 
-      Az Ákór völgye a baj, ítélet és vereség helye volt, mégis Isten ígérete szerint fordulóponttá válik. Ötszáz évvel a csata után nem gyászolni, hanem emlékezni és jövőt építeni. Mohács a reménység kapuja lesz, ahol az évszázados átokból kijőve új nap virrad a magyar nemzet egén.
+      Az Ákór völgye a baj, ítélet és vereség helye volt, mégis Isten ígérete szerint fordulóponttá vált. Ötszáz évvel a csata után nem gyászolni, hanem emlékezni és jövőt építeni gyűltünk össze. Mohács a reménység kapuja lett, ahol az évszázados átokból kijőve új nap virradt a magyar nemzet egén.
 ---

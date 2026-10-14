@@ -2,18 +2,18 @@
 # Events
 basic_plan:
   title: "Április&nbsp;4."
-  description: "Nemzeti Imanap a Papp László Budapest Sportarénában. Húsvét szombatján a nemzet közös imára gyűlik össze."
+  description: "Nemzeti Imanap a Papp László Budapest Sportarénában. Húsvét szombatján a nemzet közös imára gyűlt össze."
   currency: ""
   monthly_price: ""
   yearly_price: ""
-  details: "Ingyenes részvétel - Regisztráció kötelező"
+  details: "Ingyenes részvétel - A regisztráció kötelező volt"
   list:
     - item: "Közös ima a nemzetért"
     - item: "Felekezetközi egység"
-    - item: "Gyerekfelügyelet 3 éves kortól"
-    - item: "Ingyenes belépés"
-    - item: "Regisztráció: [űrlap](https://docs.google.com/forms/d/e/1FAIpQLScaCd6sXpP4R36tOjjfeK0T0NNJTyXmtqdmPfrf5B6KAHr06A/viewform)"
-    - item: "Regisztrációs határidő: ápr.&nbsp;1."
+    - item: "Gyerekfelügyelet volt 3 éves kortól"
+    - item: "Ingyenes belépés volt"
+    - item: "A regisztráció itt történt: [űrlap](https://docs.google.com/forms/d/e/1FAIpQLScaCd6sXpP4R36tOjjfeK0T0NNJTyXmtqdmPfrf5B6KAHr06A/viewform)"
+    - item: "A regisztrációs határidő ápr.&nbsp;1. volt"
   button:
     enable: true
     label: "Részletek"
@@ -26,7 +26,7 @@ premium_plan:
   currency: ""
   monthly_price: ""
   yearly_price: ""
-  details: "Helyszín: Mohács - Részletek hamarosan"
+  details: "Helyszín: Mohács"
   list:
     - item: "500. évforduló megemlékezés"
     - item: "Nemzeti összefogás"

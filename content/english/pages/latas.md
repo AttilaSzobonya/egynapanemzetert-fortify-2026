@@ -22,11 +22,11 @@ A **Mohács&nbsp;500** vízió nem politikai kezdeményezés, és nem pusztán t
 
 A Szent Szellem szólt a szívemhez, hogy hozzuk össze a magyar eklézsiát, kezdjünk el imádkozni, mert a gonosz újra meg akarja ismételni, amivel oly sokszor kísérletezett már: Európában a kereszténységet megsemmisíteni. Ennek egyik formája az iszlám terjeszkedése, kiteljesedése kontinensünkön.
 
-**Mohácsnál fegyveres harc volt, most ideológiai-szellemi háborút kell vívnunk.**
+**Mohácsnál fegyveres harc volt, most ideológiai-szellemi háborút kellett vívnunk.**
 
 Az 1526-os vereség évszázadokra meghatározta a sorsunkat. Az ország három részre szakadt, iszonyatos pusztítást szenvedtünk el. Állandó kesergő, vesztes-identitású, megtört nép lettünk.
 
-Teljes szívvel hisszük, hogy ez **nem a végleges sorsunk**, az 500. évforduló egy fordulatot hoz nemzetünk életében.
+Teljes szívvel hittük, hogy ez **nem a végleges sorsunk**, az 500. évforduló egy fordulatot hoz nemzetünk életében.
 
 Izraelben volt egy völgy, az **Ákor völgye**, ahol vereséget szenvedtek, nem szívesen emlékeztek rá, a nemzeti átok, gyász helyének tartották. Itt történt Ákán bűne és büntetése (Józsué 7), amely miatt Izráel vereséget szenvedett. A név jelentése: nyomorúság, zavar, baj. A mi „Ákor völgyünk" Mohács. Isten szólt prófétáján keresztül, hogy:
 
@@ -34,7 +34,7 @@ Izraelben volt egy völgy, az **Ákor völgye**, ahol vereséget szenvedtek, nem
 
 Isten ígérete Hóseásnál: a bukás helyét reménység kapujává fordítja. Ahol ítélet volt, ott új kezdet nyílik. A vereség helye fordulóponttá válik.
 
-Isten a legmélyebb vereség helyét is képes áldás kapujává tenni. A nyomorúság völgye az új kezdet kapuja lehet – nemcsak egyéni, hanem nemzeti szinten is. Ebben hiszünk mi is! Ezért hívunk mindenkit augusztus&nbsp;29-ére Mohácsra. Emeljük fel egy szívvel a szavunkat a mi Urunkhoz Jézushoz, hadd legyen számunkra Mohács a **REMÉNYSÉG KAPUJA**, hogy az évszázados átokból kijőve egy új nap virradjon fel a magyar nemzet egén!
+Isten a legmélyebb vereség helyét is képes áldás kapujává tenni. A nyomorúság völgye az új kezdet kapuja lehet – nemcsak egyéni, hanem nemzeti szinten is. Ebben hittünk mi is! Ezért hívtunk mindenkit augusztus&nbsp;29-ére Mohácsra. Egy szívvel felemeltük a szavunkat a mi Urunkhoz Jézushoz, hogy Mohács a **REMÉNYSÉG KAPUJA** legyen számunkra, hogy az évszázados átokból kijőve egy új nap virradjon fel a magyar nemzet egén!
 
 ---
 
@@ -47,7 +47,7 @@ Az elmúlt években országos szintű imamegmozdulások, vezetői műhelyek és 
 - Kapcsolatokat építettünk lelkészek, pásztorok, missziók és gyülekezetek között.
 - **2025.&nbsp;október&nbsp;23-án** a budapesti BOK Csarnokban **több mint 1700 ember** gyűlt össze közös imára a nemzetért. Ez az alkalom nem demonstráció volt, hanem egy jelzés: létezik egy vágy az egységre.
 
-Azóta a mozgósítás tovább erősödött. Vármegyei találkozók, stratégiai egyeztetések, szakmai és lelki fórumok készítik elő a következő mérföldköveket.
+Azóta a mozgósítás tovább erősödött. Vármegyei találkozók, stratégiai egyeztetések, szakmai és lelki fórumok készítették elő a következő mérföldköveket.
 
 ---
 
@@ -55,23 +55,23 @@ Azóta a mozgósítás tovább erősödött. Vármegyei találkozók, stratégia
 
 ### 2026.&nbsp;április&nbsp;4. – Budapest, Papp László Sportaréna
 
-Húsvét szombatján, azon a napon, amikor a világ legnagyobb fordulata következett be – a halálból feltámadás lett, a vereségből győzelem, a rabságból valódi szabadság –, imában hívjuk a Teremtő Istent segítségül.
+Húsvét szombatján, azon a napon, amikor a világ legnagyobb fordulata következett be – a halálból feltámadás lett, a vereségből győzelem, a rabságból valódi szabadság –, imában hívtuk a Teremtő Istent segítségül.
 
 
 ### 2026.&nbsp;augusztus&nbsp;29. – Mohács
 
-Ötszáz évvel a csata után nem gyászolni szeretnénk, hanem emlékezni és jövőt építeni. Nem a vereség narratíváját erősíteni, hanem az összefogásét. Az ott harcolók a hazájukért álltak ki. Hősök voltak, akik életüket tudatosan tették le a családjaikért, a hazájukért.
+Ötszáz évvel a csata után nem gyászolni akartunk, hanem emlékezni és jövőt építeni. Nem a vereség narratíváját akartuk erősíteni, hanem az összefogásét. Az ott harcolók a hazájukért álltak ki. Hősök voltak, akik életüket tudatosan tették le a családjaikért, a hazájukért.
 
 ---
 
 ## Meghívás
 
-A Mohács&nbsp;500 egy nyitott kezdeményezés. Egy közös ügy.
+A Mohács&nbsp;500 egy nyitott kezdeményezés volt. Egy közös ügy.
 
 **2026.&nbsp;április&nbsp;4. – Budapest**
 <br />
 **2026.&nbsp;augusztus&nbsp;29. – Mohács**
 
-A Mohács&nbsp;500 látás nem csak egy évforduló. Ez egy lehetőség. Egy fordulópont. Egy közös döntés a jövőről.
+A Mohács&nbsp;500 látás nem csak egy évforduló volt. Ez egy lehetőség volt. Egy fordulópont. Egy közös döntés a jövőről.
 
 **Vállaljunk többet a magyar nép jövőjének formálásában!**

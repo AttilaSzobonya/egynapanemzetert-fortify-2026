@@ -2,7 +2,7 @@
 meta_title: "Mérföldkövek"
 subtitle: "Mérföldkövek"
 title: "A Mohács&nbsp;500 mozgalom útja"
-description: "Az elmúlt évek legfontosabb eseményei és <br> a következő mérföldkövek a közös imáért."
+description: "Az elmúlt évek legfontosabb eseményei és <br> mérföldkövei a közös imáért."
 
 list:
   - title: "Áprilisi Nemzeti Imanap – Papp László Sportaréna"
@@ -15,16 +15,14 @@ list:
 
       **Húsvét szombat – a győzelem küszöbe**
 
-      Húsvét szombat a keresztény hit egyik legmélyebb pillanata. A kereszt már mögöttünk van, a feltámadás még előttünk. Ebben a szellemi időben gyűlünk össze a Papp László Sportarénában.
+      Húsvét szombat a keresztény hit egyik legmélyebb pillanata. A kereszt már mögöttünk volt, a feltámadás még előttünk. Ebben a szellemi időben gyűltünk össze a Papp László Sportarénában.
 
       **A nap célja:**
 
-      1. **Közös ima a nemzetért** – több ezer ember együtt imádkozik, felekezetek együtt állnak az Úr előtt.
-      2. **Történelmi feldolgozás** – a magyar történelem jelentős szellemi-lelki eseményei előtt megállunk imában.
-      3. **Fordulat a nemzeti identitásban** – imában kérjük a mindenható Istent, hogy a magyar nép identitásába fordulat jöjjön.
-      4. **Megvallás** – ennek az országnak Jézus Krisztus az Ura, valódi szabadságot egyedül Ő hoz.
-
-      A belépés ingyenes, a regisztráció kötelező. Jelentkezési határidő: 2026.&nbsp;április&nbsp;1.
+      1. **Közös ima a nemzetért** – több ezer ember együtt imádkozott, felekezetek együtt álltak az Úr előtt.
+      2. **Történelmi feldolgozás** – a magyar történelem jelentős szellemi-lelki eseményei előtt megálltunk imában.
+      3. **Fordulat a nemzeti identitásban** – imában kértük a mindenható Istent, hogy a magyar nép identitásába fordulat jöjjön.
+      4. **Megvallás** – kimondtuk, hogy ennek az országnak Jézus Krisztus az Ura, valódi szabadságot egyedül Ő hoz.
 
   - title: "Mohács&nbsp;500 – Az 500. évforduló"
     short_title: "Mohács&nbsp;500 évforduló"
@@ -34,11 +32,11 @@ list:
     content: |
       ##### Mohács&nbsp;500 – A reménység kapuja
 
-      Ötszáz évvel a csata után nem gyászolni szeretnénk, hanem emlékezni és jövőt építeni. Nem a vereség narratíváját erősíteni, hanem az összefogásét.
+      Ötszáz évvel a csata után nem gyászolni akartunk, hanem emlékezni és jövőt építeni. Nem a vereség narratíváját akartuk erősíteni, hanem az összefogásét.
 
       Mohács 1526-ban nem a gyávaság helye volt, hanem az áldozaté. Az ott harcolók a hazájukért álltak ki – hősök voltak, akik életüket tudatosan tették le a családjaikért és a hazájukért.
 
-      A Mohács&nbsp;500 célja, hogy a történelmi emlékezést összekapcsolja a lelki megújulással, a felekezetközi egységgel és a jövő generációinak felelős nevelésével.
+      A Mohács&nbsp;500 célja az volt, hogy a történelmi emlékezést összekapcsolja a lelki megújulással, a felekezetközi egységgel és a jövő generációinak felelős nevelésével.
 
   - title: "BOK Csarnok – 1700+ résztvevő"
     short_title: "BOK Csarnok imaalkalom"

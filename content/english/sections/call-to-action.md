@@ -1,7 +1,7 @@
 ---
 enable: true
-title: "Csatlakozz a Mohács&nbsp;500 mozgalomhoz – 2026.&nbsp;augusztus&nbsp;29."
-description: "Mohács a reménység kapuja: ötszáz évvel a csata után nem gyászolni, hanem közösen emlékezni és jövőt építeni. Gyere el Mohácsra az imaharcba!"
+title: "Együtt voltunk a Mohács&nbsp;500 mozgalomban – 2026.&nbsp;augusztus&nbsp;29."
+description: "Mohács a reménység kapuja volt: ötszáz évvel a csata után nem gyászolni, hanem közösen emlékezni és jövőt építeni gyűltünk össze. Eljöttünk Mohácsra az imaharcba!"
 image: "/images/cta-bg.png"
 button:
   enable: true

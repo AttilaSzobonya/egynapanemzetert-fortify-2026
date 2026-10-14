@@ -2,8 +2,8 @@
 # Banner
 banner:
   title: "Mohács&nbsp;500<br /> Közös emlékezetből közös jövő"
-  description: "Ötszáz évvel a csata után nem gyászolni szeretnénk, hanem emlékezni és jövőt építeni. <br />
-  A múlt sebeiből kiindulva a jövő felelősségére hívunk minden magyar testvért és keresztény lelki életet."
+  description: "Ötszáz évvel a csata után nem gyászolni akartunk, hanem emlékezni és jövőt építeni. <br />
+  A múlt sebeiből kiindulva a jövő felelősségére hívtunk minden magyar testvért és keresztény lelki életet."
   image:
     main: "/images/banner.webp"
     # left: "/images/banner-left.png"
@@ -38,7 +38,7 @@ how_it_works:
 explained_features:
   title: "Két sorsfordító esemény. <br /> Egy közös misszi&oacute;."
   subtitle: "A Moh&aacute;cs 500 fontosabb mérföldkövei"
-  description: "Húsvét szombatján 2026.&nbsp;április&nbsp;4-én és augusztus&nbsp;29-én vagyunk jelen <br /> ahol egy nemzetről álmodunk szabad&aacute;iban és lelki szabads&aacute;gban."
+  description: "Húsvét szombatján 2026.&nbsp;április&nbsp;4-én és augusztus&nbsp;29-én jelen voltunk <br /> ahol egy nemzetről álmodtunk szabad&aacute;iban és lelki szabads&aacute;gban."
 
 # Pricing
 pricing:
